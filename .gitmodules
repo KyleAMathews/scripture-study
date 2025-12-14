@@ -1,0 +1,3 @@
+[submodule "standard-works-vault"]
+	path = standard-works-vault
+	url = git@github.com:GabeScott/standard-works-vault.git
