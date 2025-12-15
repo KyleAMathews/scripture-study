@@ -18,7 +18,7 @@ A comprehensive catalog of Isaiah's teachings about the Messiah, organized from 
 
 ## Major Messianic Chapters
 
-### [Isaiah 7](https://www.churchofjesuschrist.org/study/scriptures/ot/isa/7.1?lang=eng#p1) - The Sign of Immanuel
+### [Isaiah 7](https://www.churchofjesuschrist.org/study/scriptures/ot/isa/7.1?lang=eng) - The Sign of Immanuel
 
 **[Isaiah 7:14](https://www.churchofjesuschrist.org/study/scriptures/ot/isa/7.14?lang=eng#p14)** - "Therefore the Lord himself shall give you a sign; Behold, a virgin shall conceive, and bear a son, and shall call his name Immanuel"
 
@@ -36,7 +36,7 @@ A comprehensive catalog of Isaiah's teachings about the Messiah, organized from 
 
 ---
 
-### [Isaiah 9](https://www.churchofjesuschrist.org/study/scriptures/ot/isa/9.1?lang=eng#p1) - The Wonderful Child
+### [Isaiah 9](https://www.churchofjesuschrist.org/study/scriptures/ot/isa/9.1?lang=eng) - The Wonderful Child
 
 **[Isaiah 9:1-7](https://www.churchofjesuschrist.org/study/scriptures/ot/isa/9.1?lang=eng#p1)** - A comprehensive prophecy of Christ's ministry and eternal reign
 
@@ -77,7 +77,7 @@ A comprehensive catalog of Isaiah's teachings about the Messiah, organized from 
 
 ---
 
-### [Isaiah 11](https://www.churchofjesuschrist.org/study/scriptures/ot/isa/11.1?lang=eng#p1) - The Rod from Jesse
+### [Isaiah 11](https://www.churchofjesuschrist.org/study/scriptures/ot/isa/11.1?lang=eng) - The Rod from Jesse
 
 **[Isaiah 11:1-16](https://www.churchofjesuschrist.org/study/scriptures/ot/isa/11.1?lang=eng#p1)** - Complete portrayal of the Messiah from David's line
 
@@ -116,7 +116,7 @@ A comprehensive catalog of Isaiah's teachings about the Messiah, organized from 
 
 ## The Suffering Servant Passages
 
-Isaiah contains four "Servant Songs" that prophesy of Christ's mission and atonement: Isaiah 42, 49, 50, and 52-53.
+Isaiah contains four "Servant Songs" that prophesy of Christ's mission and atonement: [Isaiah 42](https://www.churchofjesuschrist.org/study/scriptures/ot/isa/42.1?lang=eng), [49](https://www.churchofjesuschrist.org/study/scriptures/ot/isa/49.1?lang=eng), [50](https://www.churchofjesuschrist.org/study/scriptures/ot/isa/50.1?lang=eng), and [52-53](https://www.churchofjesuschrist.org/study/scriptures/ot/isa/52.1?lang=eng).
 
 ### [Isaiah 40:3](https://www.churchofjesuschrist.org/study/scriptures/ot/isa/40.3?lang=eng#p3) - The Forerunner
 
@@ -535,21 +535,21 @@ Key insights from Nephi:
 
 ### Isaiah Chapters Quoted in the Book of Mormon
 
-1. **2 Nephi 12-24** - Quotes Isaiah 2-14
+1. **[2 Nephi 12-24](https://www.churchofjesuschrist.org/study/scriptures/bofm/2-ne/12?lang=eng)** - Quotes [Isaiah 2-14](https://www.churchofjesuschrist.org/study/scriptures/ot/isa/2.1?lang=eng)
    - Includes prophecies of the latter-day temple, gathering of Israel, Messiah's reign
 
-2. **2 Nephi 27** - Quotes and expands Isaiah 29
+2. **[2 Nephi 27](https://www.churchofjesuschrist.org/study/scriptures/bofm/2-ne/27?lang=eng)** - Quotes and expands [Isaiah 29](https://www.churchofjesuschrist.org/study/scriptures/ot/isa/29.1?lang=eng)
    - Book of Mormon coming forth, sealed book
 
-3. **Mosiah 14** - Complete quotation of Isaiah 53
+3. **[Mosiah 14](https://www.churchofjesuschrist.org/study/scriptures/bofm/mosiah/14?lang=eng)** - Complete quotation of [Isaiah 53](https://www.churchofjesuschrist.org/study/scriptures/ot/isa/53.1?lang=eng)
    - **Abinadi quotes this before his martyrdom**
    - Applied directly to Christ's atonement
 
 4. **[3 Nephi 16:17-20](https://www.churchofjesuschrist.org/study/scriptures/bofm/3-ne/16?lang=eng&id=p17-p20#p17)** - References Isaiah's prophecies about the Gentiles
 
-5. **3 Nephi 20-24** - Christ personally quotes and explains Isaiah
+5. **[3 Nephi 20-24](https://www.churchofjesuschrist.org/study/scriptures/bofm/3-ne/20?lang=eng)** - Christ personally quotes and explains Isaiah
    - **The resurrected Christ commands the Nephites to search Isaiah**
-   - Quotes Isaiah 52-54 about the gathering and redemption
+   - Quotes [Isaiah 52-54](https://www.churchofjesuschrist.org/study/scriptures/ot/isa/52.1?lang=eng) about the gathering and redemption
 
 6. **[3 Nephi 23:1-3](https://www.churchofjesuschrist.org/study/scriptures/bofm/3-ne/23?lang=eng&id=p1-p3#p1)** - Christ's explicit commandment:
    - "Ye ought to search these things"
@@ -634,11 +634,11 @@ This divine endorsement establishes Isaiah's supreme importance in understanding
 2. **Most comprehensive Old Testament witness of Christ** - No other prophet prophesied more clearly about the Messiah
 3. **Types and shadows** - Helps us understand Christ's role as Suffering Servant, King, Redeemer
 4. **Pattern of scattering and gathering** - Shows God's covenant faithfulness
-5. **Foundation for understanding the Atonement** - Isaiah 53 is the clearest Old Testament explanation
+5. **Foundation for understanding the Atonement** - [Isaiah 53](https://www.churchofjesuschrist.org/study/scriptures/ot/isa/53.1?lang=eng) is the clearest Old Testament explanation
 
 ### The Atonement in Isaiah
 
-Isaiah 53 provides the theological foundation for understanding:
+[Isaiah 53](https://www.churchofjesuschrist.org/study/scriptures/ot/isa/53.1?lang=eng) provides the theological foundation for understanding:
 - **Vicarious suffering** - He suffered for us, not Himself
 - **Universal scope** - "All we like sheep have gone astray"
 - **Complete healing** - Physical, spiritual, emotional
@@ -662,8 +662,8 @@ Many core LDS doctrines about Christ are rooted in Isaiah:
 Following the counsel in **[3 Nephi 23:1](https://www.churchofjesuschrist.org/study/scriptures/bofm/3-ne/23?lang=eng&id=p1#p1)**, we should:
 
 1. **Search diligently** - Not casual reading, but deep study
-2. **Use the Book of Mormon as a guide** - Nephi, Abinadi, and Christ Himself explain Isaiah
-3. **Seek the Spirit** - "Plain unto all those that are filled with the spirit of prophecy" ([2 Nephi 25:4](https://www.churchofjesuschrist.org/study/scriptures/bofm/2-ne/25?lang=eng&id=p4#p4))
+2. **Use the Book of Mormon as a guide** - Nephi, Abinadi, and Christ Himself explain [Isaiah
+3](https://www.churchofjesuschrist.org/study/scriptures/ot/isa/3.1?lang=eng). **Seek the Spirit** - "Plain unto all those that are filled with the spirit of prophecy" ([2 Nephi 25:4](https://www.churchofjesuschrist.org/study/scriptures/bofm/2-ne/25?lang=eng&id=p4#p4))
 4. **Look for Christ** - "My soul delighteth in proving unto my people the truth of the coming of Christ" ([2 Nephi 11:4](https://www.churchofjesuschrist.org/study/scriptures/bofm/2-ne/11?lang=eng&id=p4#p4))
 5. **Follow the footnotes** - Cross-references show fulfillment in Christ's life
 6. **Compare with modern revelation** - D&C and other scriptures clarify Isaiah's meaning
