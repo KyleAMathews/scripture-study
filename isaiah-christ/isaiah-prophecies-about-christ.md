@@ -18,9 +18,9 @@ A comprehensive catalog of Isaiah's teachings about the Messiah, organized from 
 
 ## Major Messianic Chapters
 
-### Isaiah 7 - The Sign of Immanuel
+### [Isaiah 7](https://www.churchofjesuschrist.org/study/scriptures/ot/isa/7.1?lang=eng#p1) - The Sign of Immanuel
 
-**Isaiah 7:14** - "Therefore the Lord himself shall give you a sign; Behold, a virgin shall conceive, and bear a son, and shall call his name Immanuel"
+**[Isaiah 7:14](https://www.churchofjesuschrist.org/study/scriptures/ot/isa/7.14?lang=eng#p14)** - "Therefore the Lord himself shall give you a sign; Behold, a virgin shall conceive, and bear a son, and shall call his name Immanuel"
 
 **What it teaches:**
 - Prophecy of Christ's birth from a virgin
@@ -36,11 +36,11 @@ A comprehensive catalog of Isaiah's teachings about the Messiah, organized from 
 
 ---
 
-### Isaiah 9 - The Wonderful Child
+### [Isaiah 9](https://www.churchofjesuschrist.org/study/scriptures/ot/isa/9.1?lang=eng#p1) - The Wonderful Child
 
-**Isaiah 9:1-7** - A comprehensive prophecy of Christ's ministry and eternal reign
+**[Isaiah 9:1-7](https://www.churchofjesuschrist.org/study/scriptures/ot/isa/9.1?lang=eng#p1)** - A comprehensive prophecy of Christ's ministry and eternal reign
 
-**Isaiah 9:6** - "For unto us a child is born, unto us a son is given: and the government shall be upon his shoulder: and his name shall be called Wonderful, Counsellor, The mighty God, The everlasting Father, The Prince of Peace"
+**[Isaiah 9:6](https://www.churchofjesuschrist.org/study/scriptures/ot/isa/9.6?lang=eng#p6)** - "For unto us a child is born, unto us a son is given: and the government shall be upon his shoulder: and his name shall be called Wonderful, Counsellor, The mighty God, The everlasting Father, The Prince of Peace"
 
 **What it teaches:**
 - Names and divine attributes of Christ:
@@ -63,7 +63,7 @@ A comprehensive catalog of Isaiah's teachings about the Messiah, organized from 
 
 **Book of Mormon connection:** Quoted in [2 Nephi 19:1-7](https://www.churchofjesuschrist.org/study/scriptures/bofm/2-ne/19?lang=eng&id=p1-p7#p1)
 
-**Isaiah 9:7** - "Of the increase of his government and peace there shall be no end, upon the throne of David, and upon his kingdom"
+**[Isaiah 9:7](https://www.churchofjesuschrist.org/study/scriptures/ot/isa/9.7?lang=eng#p7)** - "Of the increase of his government and peace there shall be no end, upon the throne of David, and upon his kingdom"
 
 **What it teaches:**
 - Eternal, ever-expanding nature of Christ's kingdom
@@ -77,11 +77,11 @@ A comprehensive catalog of Isaiah's teachings about the Messiah, organized from 
 
 ---
 
-### Isaiah 11 - The Rod from Jesse
+### [Isaiah 11](https://www.churchofjesuschrist.org/study/scriptures/ot/isa/11.1?lang=eng#p1) - The Rod from Jesse
 
-**Isaiah 11:1-16** - Complete portrayal of the Messiah from David's line
+**[Isaiah 11:1-16](https://www.churchofjesuschrist.org/study/scriptures/ot/isa/11.1?lang=eng#p1)** - Complete portrayal of the Messiah from David's line
 
-**Isaiah 11:1** - "And there shall come forth a rod out of the stem of Jesse, and a Branch shall grow out of his roots"
+**[Isaiah 11:1](https://www.churchofjesuschrist.org/study/scriptures/ot/isa/11.1?lang=eng#p1)** - "And there shall come forth a rod out of the stem of Jesse, and a Branch shall grow out of his roots"
 
 **What it teaches:**
 - Christ's descent from David through Jesse (David's father)
@@ -96,7 +96,7 @@ A comprehensive catalog of Isaiah's teachings about the Messiah, organized from 
 
 **Doctrinal significance:** Establishes Jesus as the rightful heir to David's throne, fulfilling covenant promises.
 
-**Isaiah 11:2-6** - The Spirit and Character of the Messiah
+**[Isaiah 11:2-6](https://www.churchofjesuschrist.org/study/scriptures/ot/isa/11.2?lang=eng#p2)** - The Spirit and Character of the Messiah
 
 **What it teaches:**
 - The seven-fold Spirit resting on Christ:
@@ -118,7 +118,7 @@ A comprehensive catalog of Isaiah's teachings about the Messiah, organized from 
 
 Isaiah contains four "Servant Songs" that prophesy of Christ's mission and atonement: Isaiah 42, 49, 50, and 52-53.
 
-### Isaiah 40:3 - The Forerunner
+### [Isaiah 40:3](https://www.churchofjesuschrist.org/study/scriptures/ot/isa/40.3?lang=eng#p3) - The Forerunner
 
 "The voice of him that crieth in the wilderness, Prepare ye the way of the Lord, make straight in the desert a highway for our God"
 
@@ -133,9 +133,9 @@ Isaiah contains four "Servant Songs" that prophesy of Christ's mission and atone
 
 ---
 
-### Isaiah 42:1-9 - The Servant Called
+### [Isaiah 42:1-9](https://www.churchofjesuschrist.org/study/scriptures/ot/isa/42.1?lang=eng#p1) - The Servant Called
 
-**Isaiah 42:1** - "Behold my servant, whom I uphold; mine elect, in whom my soul delighteth; I have put my spirit upon him: he shall bring forth judgment to the Gentiles"
+**[Isaiah 42:1](https://www.churchofjesuschrist.org/study/scriptures/ot/isa/42.1?lang=eng#p1)** - "Behold my servant, whom I uphold; mine elect, in whom my soul delighteth; I have put my spirit upon him: he shall bring forth judgment to the Gentiles"
 
 **What it teaches:**
 - Christ as God's chosen servant
@@ -149,7 +149,7 @@ Isaiah contains four "Servant Songs" that prophesy of Christ's mission and atone
 - TG: Election
 - TG: Gentiles
 
-**Isaiah 42:6-7** - Light to the Gentiles, opener of blind eyes
+**[Isaiah 42:6-7](https://www.churchofjesuschrist.org/study/scriptures/ot/isa/42.6?lang=eng#p6)** - Light to the Gentiles, opener of blind eyes
 
 **What it teaches:**
 - Christ as a covenant to the people
@@ -159,9 +159,9 @@ Isaiah contains four "Servant Songs" that prophesy of Christ's mission and atone
 
 ---
 
-### Isaiah 49:1-13 - The Servant's Mission
+### [Isaiah 49:1-13](https://www.churchofjesuschrist.org/study/scriptures/ot/isa/49.1?lang=eng#p1) - The Servant's Mission
 
-**Isaiah 49:6** - "I will also give thee for a light to the Gentiles, that thou mayest be my salvation unto the end of the earth"
+**[Isaiah 49:6](https://www.churchofjesuschrist.org/study/scriptures/ot/isa/49.6?lang=eng#p6)** - "I will also give thee for a light to the Gentiles, that thou mayest be my salvation unto the end of the earth"
 
 **What it teaches:**
 - Christ's universal mission to all nations
@@ -178,9 +178,9 @@ Isaiah contains four "Servant Songs" that prophesy of Christ's mission and atone
 
 ---
 
-### Isaiah 50:4-9 - The Servant's Obedience
+### [Isaiah 50:4-9](https://www.churchofjesuschrist.org/study/scriptures/ot/isa/50.4?lang=eng#p4) - The Servant's Obedience
 
-**Isaiah 50:6** - "I gave my back to the smiters, and my cheeks to them that plucked off the hair: I hid not my face from shame and spitting"
+**[Isaiah 50:6](https://www.churchofjesuschrist.org/study/scriptures/ot/isa/50.6?lang=eng#p6)** - "I gave my back to the smiters, and my cheeks to them that plucked off the hair: I hid not my face from shame and spitting"
 
 **What it teaches:**
 - Specific prophecy of Christ's physical suffering during His trials
@@ -199,11 +199,11 @@ Isaiah contains four "Servant Songs" that prophesy of Christ's mission and atone
 
 ---
 
-### Isaiah 52:13-15 & 53:1-12 - The Suffering Servant
+### [Isaiah 52:13-15](https://www.churchofjesuschrist.org/study/scriptures/ot/isa/52.13?lang=eng#p13) & 53:1-12 - The Suffering Servant
 
 **The most explicit and detailed prophecy of Christ's atonement in the Old Testament.**
 
-#### Isaiah 52:13
+#### [Isaiah 52:13](https://www.churchofjesuschrist.org/study/scriptures/ot/isa/52.13?lang=eng#p13)
 
 "Behold, my servant shall deal prudently, he shall be exalted and extolled, and be very high"
 
@@ -214,7 +214,7 @@ Isaiah contains four "Servant Songs" that prophesy of Christ's mission and atone
 
 ---
 
-#### Isaiah 53:1
+#### [Isaiah 53:1](https://www.churchofjesuschrist.org/study/scriptures/ot/isa/53.1?lang=eng#p1)
 
 "Who hath believed our report? and to whom is the arm of the Lord revealed?"
 
@@ -232,7 +232,7 @@ Isaiah contains four "Servant Songs" that prophesy of Christ's mission and atone
 
 ---
 
-#### Isaiah 53:2-3
+#### [Isaiah 53:2-3](https://www.churchofjesuschrist.org/study/scriptures/ot/isa/53.2?lang=eng#p2)
 
 "He is despised and rejected of men; a man of sorrows, and acquainted with grief: and we hid as it were our faces from him; he was despised, and we esteemed him not"
 
@@ -251,7 +251,7 @@ Isaiah contains four "Servant Songs" that prophesy of Christ's mission and atone
 
 ---
 
-#### Isaiah 53:4
+#### [Isaiah 53:4](https://www.churchofjesuschrist.org/study/scriptures/ot/isa/53.4?lang=eng#p4)
 
 "Surely he hath borne our griefs, and carried our sorrows: yet we did esteem him stricken, smitten of God, and afflicted"
 
@@ -267,7 +267,7 @@ Isaiah contains four "Servant Songs" that prophesy of Christ's mission and atone
 
 ---
 
-#### Isaiah 53:5
+#### [Isaiah 53:5](https://www.churchofjesuschrist.org/study/scriptures/ot/isa/53.5?lang=eng#p5)
 
 "But he was wounded for our transgressions, he was bruised for our iniquities: the chastisement of our peace was upon him; and with his stripes we are healed"
 
@@ -289,7 +289,7 @@ Isaiah contains four "Servant Songs" that prophesy of Christ's mission and atone
 
 ---
 
-#### Isaiah 53:6
+#### [Isaiah 53:6](https://www.churchofjesuschrist.org/study/scriptures/ot/isa/53.6?lang=eng#p6)
 
 "All we like sheep have gone astray; we have turned every one to his own way; and the Lord hath laid on him the iniquity of us all"
 
@@ -306,7 +306,7 @@ Isaiah contains four "Servant Songs" that prophesy of Christ's mission and atone
 
 ---
 
-#### Isaiah 53:7
+#### [Isaiah 53:7](https://www.churchofjesuschrist.org/study/scriptures/ot/isa/53.7?lang=eng#p7)
 
 "He was oppressed, and he was afflicted, yet he opened not his mouth: he is brought as a lamb to the slaughter, and as a sheep before her shearers is dumb, so he openeth not his mouth"
 
@@ -326,7 +326,7 @@ Isaiah contains four "Servant Songs" that prophesy of Christ's mission and atone
 
 ---
 
-#### Isaiah 53:8
+#### [Isaiah 53:8](https://www.churchofjesuschrist.org/study/scriptures/ot/isa/53.8?lang=eng#p8)
 
 "He was taken from prison and from judgment: and who shall declare his generation? for he was cut off out of the land of the living: for the transgression of my people was he stricken"
 
@@ -340,7 +340,7 @@ Isaiah contains four "Servant Songs" that prophesy of Christ's mission and atone
 
 ---
 
-#### Isaiah 53:9
+#### [Isaiah 53:9](https://www.churchofjesuschrist.org/study/scriptures/ot/isa/53.9?lang=eng#p9)
 
 "And he made his grave with the wicked, and with the rich in his death; because he had done no violence, neither was any deceit in his mouth"
 
@@ -358,7 +358,7 @@ Isaiah contains four "Servant Songs" that prophesy of Christ's mission and atone
 
 ---
 
-#### Isaiah 53:10
+#### [Isaiah 53:10](https://www.churchofjesuschrist.org/study/scriptures/ot/isa/53.10?lang=eng#p10)
 
 "Yet it pleased the Lord to bruise him; he hath put him to grief: when thou shalt make his soul an offering for sin, he shall see his seed, he shall prolong his days, and the pleasure of the Lord shall prosper in his hand"
 
@@ -374,7 +374,7 @@ Isaiah contains four "Servant Songs" that prophesy of Christ's mission and atone
 
 ---
 
-#### Isaiah 53:11-12
+#### [Isaiah 53:11-12](https://www.churchofjesuschrist.org/study/scriptures/ot/isa/53.11?lang=eng#p11)
 
 "He shall see of the travail of his soul, and shall be satisfied: by his knowledge shall my righteous servant justify many; for he shall bear their iniquities. Therefore will I divide him a portion with the great, and he shall divide the spoil with the strong; because he hath poured out his soul unto death: and he was numbered with the transgressors; and he bare the sin of many, and made intercession for the transgressors"
 
@@ -398,7 +398,7 @@ Isaiah contains four "Servant Songs" that prophesy of Christ's mission and atone
 
 ## Additional Messianic References
 
-### Isaiah 28:16 - The Cornerstone
+### [Isaiah 28:16](https://www.churchofjesuschrist.org/study/scriptures/ot/isa/28.16?lang=eng#p16) - The Cornerstone
 
 "Therefore thus saith the Lord God, Behold, I lay in Zion for a foundation a stone, a tried stone, a precious corner stone, a sure foundation: he that believeth shall not make haste"
 
@@ -417,7 +417,7 @@ Isaiah contains four "Servant Songs" that prophesy of Christ's mission and atone
 
 ---
 
-### Isaiah 55:4 - The Witness and Leader
+### [Isaiah 55:4](https://www.churchofjesuschrist.org/study/scriptures/ot/isa/55.4?lang=eng#p4) - The Witness and Leader
 
 "Behold, I have given him for a witness to the people, a leader and commander to the people"
 
@@ -433,7 +433,7 @@ Isaiah contains four "Servant Songs" that prophesy of Christ's mission and atone
 
 ---
 
-### Isaiah 59:20 - The Redeemer
+### [Isaiah 59:20](https://www.churchofjesuschrist.org/study/scriptures/ot/isa/59.20?lang=eng#p20) - The Redeemer
 
 "And the Redeemer shall come to Zion, and unto them that turn from transgression in Jacob, saith the Lord"
 
@@ -449,9 +449,9 @@ Isaiah contains four "Servant Songs" that prophesy of Christ's mission and atone
 
 ---
 
-### Isaiah 61:1-3 - The Anointed Messenger
+### [Isaiah 61:1-3](https://www.churchofjesuschrist.org/study/scriptures/ot/isa/61.1?lang=eng#p1) - The Anointed Messenger
 
-**Isaiah 61:1-2** - "The Spirit of the Lord God is upon me; because the Lord hath anointed me to preach good tidings unto the meek; he hath sent me to bind up the brokenhearted, to proclaim liberty to the captives, and the opening of the prison to them that are bound; To proclaim the acceptable year of the Lord, and the day of vengeance of our God; to comfort all that mourn"
+**[Isaiah 61:1-2](https://www.churchofjesuschrist.org/study/scriptures/ot/isa/61.1?lang=eng#p1)** - "The Spirit of the Lord God is upon me; because the Lord hath anointed me to preach good tidings unto the meek; he hath sent me to bind up the brokenhearted, to proclaim liberty to the captives, and the opening of the prison to them that are bound; To proclaim the acceptable year of the Lord, and the day of vengeance of our God; to comfort all that mourn"
 
 **What it teaches:**
 - Christ's anointing and empowerment by the Spirit
@@ -469,13 +469,13 @@ Isaiah contains four "Servant Songs" that prophesy of Christ's mission and atone
 - TG: Jesus Christ, Mission of
 - TG: Anointing
 
-**New Testament fulfillment:** Jesus explicitly identifies Himself with this passage in Luke 4:16-21, saying "This day is this scripture fulfilled in your ears."
+**New Testament fulfillment:** Jesus explicitly identifies Himself with this passage in [Luke 4:16-21](https://www.churchofjesuschrist.org/study/scriptures/nt/luke/4.16?lang=eng#p16), saying "This day is this scripture fulfilled in your ears."
 
 **Book of Mormon context:** Abinadi quotes this passage in [Mosiah 15:10-13](https://www.churchofjesuschrist.org/study/scriptures/bofm/mosiah/15?lang=eng&id=p10-p13#p10)
 
 ---
 
-### Isaiah 62:11 - The Coming Salvation
+### [Isaiah 62:11](https://www.churchofjesuschrist.org/study/scriptures/ot/isa/62.11?lang=eng#p11) - The Coming Salvation
 
 "Behold, the Lord hath proclaimed unto the end of the world, Say ye to the daughter of Zion, Behold, thy salvation cometh; behold, his reward is with him, and his work before him"
 
@@ -492,9 +492,9 @@ Isaiah contains four "Servant Songs" that prophesy of Christ's mission and atone
 
 ---
 
-### Isaiah 63:1-6 - The Mighty One in Red Apparel
+### [Isaiah 63:1-6](https://www.churchofjesuschrist.org/study/scriptures/ot/isa/63.1?lang=eng#p1) - The Mighty One in Red Apparel
 
-**Isaiah 63:1** - "Who is this that cometh from Edom, with dyed garments from Bozrah? this that is glorious in his apparel, travelling in the greatness of his strength? I that speak in righteousness, mighty to save"
+**[Isaiah 63:1](https://www.churchofjesuschrist.org/study/scriptures/ot/isa/63.1?lang=eng#p1)** - "Who is this that cometh from Edom, with dyed garments from Bozrah? this that is glorious in his apparel, travelling in the greatness of his strength? I that speak in righteousness, mighty to save"
 
 **What it teaches:**
 - Christ's power and second coming in glory
@@ -518,7 +518,7 @@ The Book of Mormon extensively quotes and comments on Isaiah, helping us underst
 
 ### Nephi's Isaiah Commentary
 
-**2 Nephi 25:1-8** - Nephi's explanation of why Isaiah is hard to understand
+**[2 Nephi 25:1-8](https://www.churchofjesuschrist.org/study/scriptures/bofm/2-ne/25?lang=eng&id=p1-p8#p1)** - Nephi's explanation of why Isaiah is hard to understand
 
 Key insights from Nephi:
 - Isaiah spoke in the manner of the Jews (symbolic, prophetic style)
@@ -526,7 +526,7 @@ Key insights from Nephi:
 - Isaiah prophesied concerning all the house of Israel
 - Many prophecies concern the last days
 
-**2 Nephi 25:13-20** - Nephi's clear testimony about Isaiah's prophecies of Christ
+**[2 Nephi 25:13-20](https://www.churchofjesuschrist.org/study/scriptures/bofm/2-ne/25?lang=eng&id=p13-p20#p13)** - Nephi's clear testimony about Isaiah's prophecies of Christ
 
 - Verse 13: "the prophet hath written the death of Christ"
 - Verse 14: Prophets "have testified of the coming of Christ"
@@ -545,13 +545,13 @@ Key insights from Nephi:
    - **Abinadi quotes this before his martyrdom**
    - Applied directly to Christ's atonement
 
-4. **3 Nephi 16:17-20** - References Isaiah's prophecies about the Gentiles
+4. **[3 Nephi 16:17-20](https://www.churchofjesuschrist.org/study/scriptures/bofm/3-ne/16?lang=eng&id=p17-p20#p17)** - References Isaiah's prophecies about the Gentiles
 
 5. **3 Nephi 20-24** - Christ personally quotes and explains Isaiah
    - **The resurrected Christ commands the Nephites to search Isaiah**
    - Quotes Isaiah 52-54 about the gathering and redemption
 
-6. **3 Nephi 23:1-3** - Christ's explicit commandment:
+6. **[3 Nephi 23:1-3](https://www.churchofjesuschrist.org/study/scriptures/bofm/3-ne/23?lang=eng&id=p1-p3#p1)** - Christ's explicit commandment:
    - "Ye ought to search these things"
    - "A commandment I give unto you that ye search these things diligently"
    - "For great are the words of Isaiah"
@@ -573,56 +573,56 @@ This divine endorsement establishes Isaiah's supreme importance in understanding
 ## Summary of Isaiah's Major Teachings About Christ
 
 ### Birth and Early Life
-- **Virgin birth** (7:14) - Miraculous conception of Immanuel
-- **Wonderful child** (9:6) - Born with divine names and authority
+- **Virgin birth** ([Isaiah 7:14](https://www.churchofjesuschrist.org/study/scriptures/ot/isa/7.14?lang=eng#p14)) - Miraculous conception of Immanuel
+- **Wonderful child** ([Isaiah 9:6](https://www.churchofjesuschrist.org/study/scriptures/ot/isa/9.6?lang=eng#p6)) - Born with divine names and authority
 
 ### Names and Attributes
 - **Wonderful** - Beyond human understanding
 - **Counsellor** - Guide and wisdom
 - **The mighty God** - Divine power
 - **The everlasting Father** - Eternal nature
-- **The Prince of Peace** - Bringer of peace (9:6)
-- **Immanuel** - God with us (7:14)
-- **The Branch** - New growth from Jesse's line (11:1)
+- **The Prince of Peace** - Bringer of peace ([Isaiah 9:6](https://www.churchofjesuschrist.org/study/scriptures/ot/isa/9.6?lang=eng#p6))
+- **Immanuel** - God with us ([Isaiah 7:14](https://www.churchofjesuschrist.org/study/scriptures/ot/isa/7.14?lang=eng#p14))
+- **The Branch** - New growth from Jesse's line ([Isaiah 11:1](https://www.churchofjesuschrist.org/study/scriptures/ot/isa/11.1?lang=eng#p1))
 
 ### Lineage
-- **Rod from Jesse** (11:1) - David's line through Jesse
-- **Throne of David** (9:7) - Rightful heir to David's kingdom
+- **Rod from Jesse** ([Isaiah 11:1](https://www.churchofjesuschrist.org/study/scriptures/ot/isa/11.1?lang=eng#p1)) - David's line through Jesse
+- **Throne of David** ([Isaiah 9:7](https://www.churchofjesuschrist.org/study/scriptures/ot/isa/9.7?lang=eng#p7)) - Rightful heir to David's kingdom
 
 ### Mission
-- **Servant of God** (42:1) - Chosen and beloved servant
-- **Light to the Gentiles** (49:6) - Universal salvation
-- **Anointed to preach** (61:1) - Gospel of liberty and healing
-- **Leader and witness** (55:4) - Shepherd of the people
-- **Opens blind eyes** (42:7) - Physical and spiritual sight
-- **Redeemer** (59:20) - Brings redemption to Zion
+- **Servant of God** ([Isaiah 42:1](https://www.churchofjesuschrist.org/study/scriptures/ot/isa/42.1?lang=eng#p1)) - Chosen and beloved servant
+- **Light to the Gentiles** ([Isaiah 49:6](https://www.churchofjesuschrist.org/study/scriptures/ot/isa/49.6?lang=eng#p6)) - Universal salvation
+- **Anointed to preach** ([Isaiah 61:1](https://www.churchofjesuschrist.org/study/scriptures/ot/isa/61.1?lang=eng#p1)) - Gospel of liberty and healing
+- **Leader and witness** ([Isaiah 55:4](https://www.churchofjesuschrist.org/study/scriptures/ot/isa/55.4?lang=eng#p4)) - Shepherd of the people
+- **Opens blind eyes** ([Isaiah 42:7](https://www.churchofjesuschrist.org/study/scriptures/ot/isa/42.7?lang=eng#p7)) - Physical and spiritual sight
+- **Redeemer** ([Isaiah 59:20](https://www.churchofjesuschrist.org/study/scriptures/ot/isa/59.20?lang=eng#p20)) - Brings redemption to Zion
 
 ### Suffering and Atonement
-- **Despised and rejected** (53:3) - Man of sorrows
-- **Wounded for our transgressions** (53:5) - Vicarious suffering
-- **Bruised for our iniquities** (53:5) - Bore our sins
-- **With his stripes we are healed** (53:5) - Healing through His wounds
-- **Silent before accusers** (50:6, 53:7) - Voluntary submission
-- **Lamb to the slaughter** (53:7) - Willing sacrifice
-- **Bore our griefs** (53:4) - Carried our sorrows
-- **Made intercession** (53:12) - Mediator for transgressors
-- **Soul an offering for sin** (53:10) - Complete sacrifice
+- **Despised and rejected** ([Isaiah 53:3](https://www.churchofjesuschrist.org/study/scriptures/ot/isa/53.3?lang=eng#p3)) - Man of sorrows
+- **Wounded for our transgressions** ([Isaiah 53:5](https://www.churchofjesuschrist.org/study/scriptures/ot/isa/53.5?lang=eng#p5)) - Vicarious suffering
+- **Bruised for our iniquities** ([Isaiah 53:5](https://www.churchofjesuschrist.org/study/scriptures/ot/isa/53.5?lang=eng#p5)) - Bore our sins
+- **With his stripes we are healed** ([Isaiah 53:5](https://www.churchofjesuschrist.org/study/scriptures/ot/isa/53.5?lang=eng#p5)) - Healing through His wounds
+- **Silent before accusers** ([Isaiah 50:6](https://www.churchofjesuschrist.org/study/scriptures/ot/isa/50.6?lang=eng#p6), [53:7](https://www.churchofjesuschrist.org/study/scriptures/ot/isa/53.7?lang=eng#p7)) - Voluntary submission
+- **Lamb to the slaughter** ([Isaiah 53:7](https://www.churchofjesuschrist.org/study/scriptures/ot/isa/53.7?lang=eng#p7)) - Willing sacrifice
+- **Bore our griefs** ([Isaiah 53:4](https://www.churchofjesuschrist.org/study/scriptures/ot/isa/53.4?lang=eng#p4)) - Carried our sorrows
+- **Made intercession** ([Isaiah 53:12](https://www.churchofjesuschrist.org/study/scriptures/ot/isa/53.12?lang=eng#p12)) - Mediator for transgressors
+- **Soul an offering for sin** ([Isaiah 53:10](https://www.churchofjesuschrist.org/study/scriptures/ot/isa/53.10?lang=eng#p10)) - Complete sacrifice
 
 ### Resurrection and Exaltation
-- **High and lifted up** (52:13) - Exalted after suffering
-- **Prolong his days** (53:10) - Resurrection and eternal life
-- **Portion with the great** (53:12) - Eternal reward
+- **High and lifted up** ([Isaiah 52:13](https://www.churchofjesuschrist.org/study/scriptures/ot/isa/52.13?lang=eng#p13)) - Exalted after suffering
+- **Prolong his days** ([Isaiah 53:10](https://www.churchofjesuschrist.org/study/scriptures/ot/isa/53.10?lang=eng#p10)) - Resurrection and eternal life
+- **Portion with the great** ([Isaiah 53:12](https://www.churchofjesuschrist.org/study/scriptures/ot/isa/53.12?lang=eng#p12)) - Eternal reward
 
 ### Eternal Kingdom
-- **Government on His shoulder** (9:6) - Righteous rule
-- **Throne of David forever** (9:7) - Eternal kingdom
-- **Of His peace no end** (9:7) - Endless peace and justice
-- **Judge in righteousness** (11:3-5) - Perfect judgment
+- **Government on His shoulder** ([Isaiah 9:6](https://www.churchofjesuschrist.org/study/scriptures/ot/isa/9.6?lang=eng#p6)) - Righteous rule
+- **Throne of David forever** ([Isaiah 9:7](https://www.churchofjesuschrist.org/study/scriptures/ot/isa/9.7?lang=eng#p7)) - Eternal kingdom
+- **Of His peace no end** ([Isaiah 9:7](https://www.churchofjesuschrist.org/study/scriptures/ot/isa/9.7?lang=eng#p7)) - Endless peace and justice
+- **Judge in righteousness** ([Isaiah 11:3-5](https://www.churchofjesuschrist.org/study/scriptures/ot/isa/11.3?lang=eng#p3)) - Perfect judgment
 
 ### Second Coming
-- **In glory to judge** (63:1) - Red apparel, mighty to save
-- **All nations see salvation** (52:10) - Universal recognition
-- **Redeemer to Zion** (59:20) - Return to His people
+- **In glory to judge** ([Isaiah 63:1](https://www.churchofjesuschrist.org/study/scriptures/ot/isa/63.1?lang=eng#p1)) - Red apparel, mighty to save
+- **All nations see salvation** ([Isaiah 52:10](https://www.churchofjesuschrist.org/study/scriptures/ot/isa/52.10?lang=eng#p10)) - Universal recognition
+- **Redeemer to Zion** ([Isaiah 59:20](https://www.churchofjesuschrist.org/study/scriptures/ot/isa/59.20?lang=eng#p20)) - Return to His people
 
 ---
 
@@ -630,7 +630,7 @@ This divine endorsement establishes Isaiah's supreme importance in understanding
 
 ### Why Isaiah Matters
 
-1. **Christ Himself commanded us to search Isaiah** (3 Nephi 23:1)
+1. **Christ Himself commanded us to search Isaiah** ([3 Nephi 23:1](https://www.churchofjesuschrist.org/study/scriptures/bofm/3-ne/23?lang=eng&id=p1#p1))
 2. **Most comprehensive Old Testament witness of Christ** - No other prophet prophesied more clearly about the Messiah
 3. **Types and shadows** - Helps us understand Christ's role as Suffering Servant, King, Redeemer
 4. **Pattern of scattering and gathering** - Shows God's covenant faithfulness
@@ -649,22 +649,22 @@ Isaiah 53 provides the theological foundation for understanding:
 ### Isaiah's Influence on LDS Doctrine
 
 Many core LDS doctrines about Christ are rooted in Isaiah:
-- Christ as the foundation/cornerstone (28:16 → Helaman 5:12)
-- The suffering servant who atones for all (53:5)
-- The literal Son of God with divine names (9:6)
+- Christ as the foundation/cornerstone ([Isaiah 28:16](https://www.churchofjesuschrist.org/study/scriptures/ot/isa/28.16?lang=eng#p16) → [Helaman 5:12](https://www.churchofjesuschrist.org/study/scriptures/bofm/hel/5?lang=eng&id=p12#p12))
+- The suffering servant who atones for all ([Isaiah 53:5](https://www.churchofjesuschrist.org/study/scriptures/ot/isa/53.5?lang=eng#p5))
+- The literal Son of God with divine names ([Isaiah 9:6](https://www.churchofjesuschrist.org/study/scriptures/ot/isa/9.6?lang=eng#p6))
 - The gathering of Israel in the last days (multiple chapters)
-- The millennial reign of peace (11:6-9)
+- The millennial reign of peace ([Isaiah 11:6-9](https://www.churchofjesuschrist.org/study/scriptures/ot/isa/11.6?lang=eng#p6))
 
 ---
 
 ## How to Study Isaiah's Messianic Prophecies
 
-Following the counsel in **3 Nephi 23:1**, we should:
+Following the counsel in **[3 Nephi 23:1](https://www.churchofjesuschrist.org/study/scriptures/bofm/3-ne/23?lang=eng&id=p1#p1)**, we should:
 
 1. **Search diligently** - Not casual reading, but deep study
 2. **Use the Book of Mormon as a guide** - Nephi, Abinadi, and Christ Himself explain Isaiah
-3. **Seek the Spirit** - "Plain unto all those that are filled with the spirit of prophecy" (2 Nephi 25:4)
-4. **Look for Christ** - "My soul delighteth in proving unto my people the truth of the coming of Christ" (2 Nephi 11:4)
+3. **Seek the Spirit** - "Plain unto all those that are filled with the spirit of prophecy" ([2 Nephi 25:4](https://www.churchofjesuschrist.org/study/scriptures/bofm/2-ne/25?lang=eng&id=p4#p4))
+4. **Look for Christ** - "My soul delighteth in proving unto my people the truth of the coming of Christ" ([2 Nephi 11:4](https://www.churchofjesuschrist.org/study/scriptures/bofm/2-ne/11?lang=eng&id=p4#p4))
 5. **Follow the footnotes** - Cross-references show fulfillment in Christ's life
 6. **Compare with modern revelation** - D&C and other scriptures clarify Isaiah's meaning
 
@@ -678,7 +678,7 @@ Isaiah stands as the preeminent Old Testament prophet of Jesus Christ. His proph
 - His resurrection and exaltation
 - His second coming and millennial reign
 
-The Savior's commandment to "search these things diligently" (**3 Nephi 23:1**) is not optional - it's a divine mandate. Isaiah's words unlock understanding of who Christ is, what He did, and why it matters for all humanity.
+The Savior's commandment to "search these things diligently" (**[3 Nephi 23:1](https://www.churchofjesuschrist.org/study/scriptures/bofm/3-ne/23?lang=eng&id=p1#p1)**) is not optional - it's a divine mandate. Isaiah's words unlock understanding of who Christ is, what He did, and why it matters for all humanity.
 
 As Nephi testified: "For great are the words of Isaiah" - great in scope, great in detail, great in power to testify of Jesus Christ, the Redeemer of the world.
 
