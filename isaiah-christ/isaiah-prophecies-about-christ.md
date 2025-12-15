@@ -2,7 +2,7 @@
 
 A comprehensive catalog of Isaiah's teachings about the Messiah, organized from the standard-works-vault.
 
-**Source verse:** [3 Nephi 23:1](../standard-works-vault/Book%20of%20Mormon/3%20Nephi%2023.1.md) - "And now, behold, I say unto you, that ye ought to search these things. Yea, a commandment I give unto you that ye search these things diligently; for great are the words of Isaiah."
+**Source verse:** [3 Nephi 23:1](https://www.churchofjesuschrist.org/study/scriptures/bofm/3-ne/23?lang=eng&id=p1#p1) - "And now, behold, I say unto you, that ye ought to search these things. Yea, a commandment I give unto you that ye search these things diligently; for great are the words of Isaiah."
 
 ---
 
@@ -28,7 +28,7 @@ A comprehensive catalog of Isaiah's teachings about the Messiah, organized from 
 - The child will be called "Immanuel" (God with us)
 
 **Cross-references:**
-- [Matthew 1:23](../standard-works-vault/New%20Testament/Matthew%201.23.md) - Fulfillment in Jesus' birth
+- [Matthew 1:23](https://www.churchofjesuschrist.org/study/scriptures/nt/matt/1.23?lang=eng#p23) - Fulfillment in Jesus' birth
 - TG: Jesus Christ, Birth of
 - TG: Foreordination
 
@@ -61,7 +61,7 @@ A comprehensive catalog of Isaiah's teachings about the Messiah, organized from 
 - TG: Jesus Christ, Power of
 - TG: Peace of God
 
-**Book of Mormon connection:** Quoted in [2 Nephi 19:1-7](../standard-works-vault/Book%20of%20Mormon/2%20Nephi%2019.1.md)
+**Book of Mormon connection:** Quoted in [2 Nephi 19:1-7](https://www.churchofjesuschrist.org/study/scriptures/bofm/2-ne/19?lang=eng&id=p1-p7#p1)
 
 **Isaiah 9:7** - "Of the increase of his government and peace there shall be no end, upon the throne of David, and upon his kingdom"
 
@@ -71,7 +71,7 @@ A comprehensive catalog of Isaiah's teachings about the Messiah, organized from 
 - Perfect justice and judgment forever
 
 **Cross-references:**
-- [Luke 1:32-33](../standard-works-vault/New%20Testament/Luke%201.32.md) - Angel's announcement to Mary
+- [Luke 1:32-33](https://www.churchofjesuschrist.org/study/scriptures/nt/luke/1.32?lang=eng#p32) - Angel's announcement to Mary
 - TG: Jesus Christ, Davidic Descent of
 - TG: Jesus Christ, Millennial Reign
 
@@ -89,7 +89,7 @@ A comprehensive catalog of Isaiah's teachings about the Messiah, organized from 
 - "Branch" as a messianic title
 
 **Cross-references:**
-- [2 Nephi 21:1](../standard-works-vault/Book%20of%20Mormon/2%20Nephi%2021.1.md) - Quoted in Book of Mormon
+- [2 Nephi 21:1](https://www.churchofjesuschrist.org/study/scriptures/bofm/2-ne/21?lang=eng&id=p1#p1) - Quoted in Book of Mormon
 - TG: Jesus Christ, Messiah
 - TG: Jesus Christ, Davidic Descent of
 - TG: Jesus Christ, Prophecies about
@@ -127,9 +127,9 @@ Isaiah contains four "Servant Songs" that prophesy of Christ's mission and atone
 - The Messiah's coming will be announced by a forerunner
 
 **Cross-references:**
-- [Matthew 3:3](../standard-works-vault/New%20Testament/Matthew%203.3.md) - John the Baptist identified as the fulfillment
-- [Luke 1:76-80](../standard-works-vault/New%20Testament/Luke%201.10.md)
-- [1 Nephi 10:8](../standard-works-vault/Book%20of%20Mormon/1%20Nephi%2010.8.md) - Nephi prophesies of John the Baptist
+- [Matthew 3:3](https://www.churchofjesuschrist.org/study/scriptures/nt/matt/3.3?lang=eng#p3) - John the Baptist identified as the fulfillment
+- [Luke 1:76-80](https://www.churchofjesuschrist.org/study/scriptures/nt/luke/1.76?lang=eng#p76)
+- [1 Nephi 10:8](https://www.churchofjesuschrist.org/study/scriptures/bofm/1-ne/10?lang=eng&id=p8#p8) - Nephi prophesies of John the Baptist
 
 ---
 
@@ -144,7 +144,7 @@ Isaiah contains four "Servant Songs" that prophesy of Christ's mission and atone
 - His mission extends to the Gentiles (all nations)
 
 **Cross-references:**
-- [Matthew 12:17-21](../standard-works-vault/New%20Testament/Matthew%2012.17.md) - Matthew identifies Jesus with this prophecy
+- [Matthew 12:17-21](https://www.churchofjesuschrist.org/study/scriptures/nt/matt/12.17?lang=eng#p17) - Matthew identifies Jesus with this prophecy
 - TG: Jesus Christ, Foreordained
 - TG: Election
 - TG: Gentiles
@@ -172,7 +172,7 @@ Isaiah contains four "Servant Songs" that prophesy of Christ's mission and atone
 - TG: Abrahamic Covenant
 - TG: Israel, Mission of
 - TG: Missionary Work
-- [Luke 2:32](../standard-works-vault/New%20Testament/Luke%202.32.md) - Simeon's prophecy at Jesus' presentation
+- [Luke 2:32](https://www.churchofjesuschrist.org/study/scriptures/nt/luke/2.32?lang=eng#p32) - Simeon's prophecy at Jesus' presentation
 
 **Significance:** Establishes that Christ's mission is not limited to the house of Israel but extends to all people.
 
@@ -188,11 +188,11 @@ Isaiah contains four "Servant Songs" that prophesy of Christ's mission and atone
 - Did not hide from shame and abuse
 
 **Cross-references:**
-- [Isaiah 53:4-12](../standard-works-vault/Old%20Testament/Isaiah%2053.4.md) - Further details of suffering
-- [Matthew 27:26](../standard-works-vault/New%20Testament/Matthew%2027.26.md) - Scourging fulfilled
-- [Matthew 26:67](../standard-works-vault/New%20Testament/Matthew%2026.67.md) - Spitting fulfilled
-- [Mark 14:65](../standard-works-vault/New%20Testament/Mark%2014.65.md)
-- [Mark 15:3-5](../standard-works-vault/New%20Testament/Mark%2015.3.md) - Silent before accusers
+- [Isaiah 53:4-12](https://www.churchofjesuschrist.org/study/scriptures/ot/isa/53.4?lang=eng#p4) - Further details of suffering
+- [Matthew 27:26](https://www.churchofjesuschrist.org/study/scriptures/nt/matt/27.26?lang=eng#p26) - Scourging fulfilled
+- [Matthew 26:67](https://www.churchofjesuschrist.org/study/scriptures/nt/matt/26.67?lang=eng#p67) - Spitting fulfilled
+- [Mark 14:65](https://www.churchofjesuschrist.org/study/scriptures/nt/mark/14.65?lang=eng#p65)
+- [Mark 15:3-5](https://www.churchofjesuschrist.org/study/scriptures/nt/mark/15.3?lang=eng#p3) - Silent before accusers
 - TG: Jesus Christ, Death of
 
 **Fulfillment:** Literally fulfilled during Jesus' trial before the Sanhedrin and Roman authorities.
@@ -224,9 +224,9 @@ Isaiah contains four "Servant Songs" that prophesy of Christ's mission and atone
 - The Lord's power revealed through His servant
 
 **Cross-references:**
-- [John 12:38](../standard-works-vault/New%20Testament/John%2012.38.md) - John quotes this regarding unbelief
-- [Romans 10:16](../standard-works-vault/New%20Testament/Romans%2010.16.md) - Paul references this
-- [Mosiah 14:1](../standard-works-vault/Book%20of%20Mormon/Mosiah%2014.1.md) - Entire chapter quoted by Abinadi
+- [John 12:38](https://www.churchofjesuschrist.org/study/scriptures/nt/john/12.38?lang=eng#p38) - John quotes this regarding unbelief
+- [Romans 10:16](https://www.churchofjesuschrist.org/study/scriptures/nt/rom/10.16?lang=eng#p16) - Paul references this
+- [Mosiah 14:1](https://www.churchofjesuschrist.org/study/scriptures/bofm/mosiah/14?lang=eng&id=p1#p1) - Entire chapter quoted by Abinadi
 
 **Significance:** The Book of Mormon quotes this entire chapter, emphasizing its importance.
 
@@ -243,9 +243,9 @@ Isaiah contains four "Servant Songs" that prophesy of Christ's mission and atone
 - The loneliness of His mission
 
 **Cross-references:**
-- [Mark 9:12](../standard-works-vault/New%20Testament/Mark%209.12.md) - Jesus predicts His rejection
-- [1 Peter 2:23-24](../standard-works-vault/New%20Testament/1%20Peter%202.23.md)
-- [John 1:10](../standard-works-vault/New%20Testament/John%201.10.md) - "He came unto his own, and his own received him not"
+- [Mark 9:12](https://www.churchofjesuschrist.org/study/scriptures/nt/mark/9.12?lang=eng#p12) - Jesus predicts His rejection
+- [1 Peter 2:23-24](https://www.churchofjesuschrist.org/study/scriptures/nt/1-pet/2.23?lang=eng#p23)
+- [John 1:10](https://www.churchofjesuschrist.org/study/scriptures/nt/john/1.10?lang=eng#p10) - "He came unto his own, and his own received him not"
 
 **Fulfillment:** Christ's rejection by Jewish leaders and crucifixion between thieves.
 
@@ -261,8 +261,8 @@ Isaiah contains four "Servant Songs" that prophesy of Christ's mission and atone
 - In reality, He was suffering for others
 
 **Cross-references:**
-- [Matthew 8:17](../standard-works-vault/New%20Testament/Matthew%208.17.md) - Matthew sees fulfillment in Jesus' healing ministry
-- [1 Peter 2:24](../standard-works-vault/New%20Testament/1%20Peter%202.24.md)
+- [Matthew 8:17](https://www.churchofjesuschrist.org/study/scriptures/nt/matt/8.17?lang=eng#p17) - Matthew sees fulfillment in Jesus' healing ministry
+- [1 Peter 2:24](https://www.churchofjesuschrist.org/study/scriptures/nt/1-pet/2.24?lang=eng#p24)
 - TG: Jesus Christ, Atonement through
 
 ---
@@ -279,8 +279,8 @@ Isaiah contains four "Servant Songs" that prophesy of Christ's mission and atone
 - His stripes (scourging) bring our healing
 
 **Cross-references:**
-- [Romans 4:25](../standard-works-vault/New%20Testament/Romans%204.25.md)
-- [1 Peter 2:24](../standard-works-vault/New%20Testament/1%20Peter%202.24.md)
+- [Romans 4:25](https://www.churchofjesuschrist.org/study/scriptures/nt/rom/4.25?lang=eng#p25)
+- [1 Peter 2:24](https://www.churchofjesuschrist.org/study/scriptures/nt/1-pet/2.24?lang=eng#p24)
 - TG: Remission of Sins
 - TG: Reconciliation
 - TG: Restoration
@@ -300,7 +300,7 @@ Isaiah contains four "Servant Songs" that prophesy of Christ's mission and atone
 - Complete scope of the Atonement
 
 **Cross-references:**
-- [Mosiah 14:6](../standard-works-vault/Book%20of%20Mormon/Mosiah%2014.6.md)
+- [Mosiah 14:6](https://www.churchofjesuschrist.org/study/scriptures/bofm/mosiah/14?lang=eng&id=p6#p6)
 - TG: Accountability
 - TG: Fall of Man
 
@@ -316,10 +316,10 @@ Isaiah contains four "Servant Songs" that prophesy of Christ's mission and atone
 - Did not defend Himself or cry out
 
 **Cross-references:**
-- [Genesis 22:8](../standard-works-vault/Old%20Testament/Genesis%2022.8.md) - Abraham's prophecy of the lamb God would provide
-- [Jeremiah 11:19](../standard-works-vault/Old%20Testament/Jeremiah%2011.19.md) - "I was like a lamb or an ox brought to the slaughter"
-- [Mosiah 14:7](../standard-works-vault/Book%20of%20Mormon/Mosiah%2014.7.md)
-- [Revelation 5:6-12](../standard-works-vault/New%20Testament/Revelation%205.5.md) - The Lamb slain from the foundation of the world
+- [Genesis 22:8](https://www.churchofjesuschrist.org/study/scriptures/ot/gen/22.8?lang=eng#p8) - Abraham's prophecy of the lamb God would provide
+- [Jeremiah 11:19](https://www.churchofjesuschrist.org/study/scriptures/ot/jer/11.19?lang=eng#p19) - "I was like a lamb or an ox brought to the slaughter"
+- [Mosiah 14:7](https://www.churchofjesuschrist.org/study/scriptures/bofm/mosiah/14?lang=eng&id=p7#p7)
+- [Revelation 5:6-12](https://www.churchofjesuschrist.org/study/scriptures/nt/rev/5.6?lang=eng#p6) - The Lamb slain from the foundation of the world
 - TG: Jesus Christ, Lamb of God
 
 **Significance:** Establishes typology - Christ as the sacrificial Lamb of God.
@@ -350,8 +350,8 @@ Isaiah contains four "Servant Songs" that prophesy of Christ's mission and atone
 - Completely sinless - no violence or deceit
 
 **Cross-references:**
-- [Matthew 27:57-60](../standard-works-vault/New%20Testament/Matthew%2027.57.md) - Buried in Joseph's tomb
-- [John 19:38-42](../standard-works-vault/New%20Testament/John%2019.38.md)
+- [Matthew 27:57-60](https://www.churchofjesuschrist.org/study/scriptures/nt/matt/27.57?lang=eng#p57) - Buried in Joseph's tomb
+- [John 19:38-42](https://www.churchofjesuschrist.org/study/scriptures/nt/john/19.38?lang=eng#p38)
 - TG: Jesus Christ, Sinless
 
 **Fulfillment:** Crucified with criminals, buried in Joseph of Arimathea's tomb.
@@ -387,8 +387,8 @@ Isaiah contains four "Servant Songs" that prophesy of Christ's mission and atone
 - Receives exaltation and reward for His sacrifice
 
 **Cross-references:**
-- [Luke 22:37](../standard-works-vault/New%20Testament/Luke%2022.37.md) - Jesus quotes this about Himself
-- [Hebrews 7:25](../standard-works-vault/New%20Testament/Hebrews%207.25.md) - "Wherefore he is able also to save them to the uttermost that come unto God by him, seeing he ever liveth to make intercession for them"
+- [Luke 22:37](https://www.churchofjesuschrist.org/study/scriptures/nt/luke/22.37?lang=eng#p37) - Jesus quotes this about Himself
+- [Hebrews 7:25](https://www.churchofjesuschrist.org/study/scriptures/nt/heb/7.25?lang=eng#p25) - "Wherefore he is able also to save them to the uttermost that come unto God by him, seeing he ever liveth to make intercession for them"
 - TG: Jesus Christ, Mediator
 - TG: Justification
 
@@ -409,8 +409,8 @@ Isaiah contains four "Servant Songs" that prophesy of Christ's mission and atone
 - Believers built upon this rock will not be moved
 
 **Cross-references:**
-- [1 Peter 2:6](../standard-works-vault/New%20Testament/1%20Peter%202.6.md) - Peter identifies Christ as this cornerstone
-- [Helaman 5:12](../standard-works-vault/Book%20of%20Mormon/Helaman%205.12.md) - "Remember that it is upon the rock of our Redeemer, who is Christ, the Son of God, that ye must build your foundation"
+- [1 Peter 2:6](https://www.churchofjesuschrist.org/study/scriptures/nt/1-pet/2.6?lang=eng#p6) - Peter identifies Christ as this cornerstone
+- [Helaman 5:12](https://www.churchofjesuschrist.org/study/scriptures/bofm/hel/5?lang=eng&id=p12#p12) - "Remember that it is upon the rock of our Redeemer, who is Christ, the Son of God, that ye must build your foundation"
 - TG: Jesus Christ, Rock
 
 **Significance:** Foundation for understanding Christ as the rock upon which faith is built.
@@ -427,8 +427,8 @@ Isaiah contains four "Servant Songs" that prophesy of Christ's mission and atone
 - Shepherd imagery
 
 **Cross-references:**
-- [John 10:3-16](../standard-works-vault/New%20Testament/John%2010.3.md) - The Good Shepherd
-- [John 18:37](../standard-works-vault/New%20Testament/John%2018.37.md) - "To this end was I born, and for this cause came I into the world, that I should bear witness unto the truth"
+- [John 10:3-16](https://www.churchofjesuschrist.org/study/scriptures/nt/john/10.3?lang=eng#p3) - The Good Shepherd
+- [John 18:37](https://www.churchofjesuschrist.org/study/scriptures/nt/john/18.37?lang=eng#p37) - "To this end was I born, and for this cause came I into the world, that I should bear witness unto the truth"
 - TG: Jesus Christ, Good Shepherd
 
 ---
@@ -464,14 +464,14 @@ Isaiah contains four "Servant Songs" that prophesy of Christ's mission and atone
   - Comfort mourners
 
 **Cross-references:**
-- [Luke 4:18-21](../standard-works-vault/New%20Testament/Luke%204.18.md) - **Jesus quotes this about Himself in the synagogue at Nazareth**
+- [Luke 4:18-21](https://www.churchofjesuschrist.org/study/scriptures/nt/luke/4.18?lang=eng#p18) - **Jesus quotes this about Himself in the synagogue at Nazareth**
 - TG: Jesus Christ, Messiah
 - TG: Jesus Christ, Mission of
 - TG: Anointing
 
 **New Testament fulfillment:** Jesus explicitly identifies Himself with this passage in Luke 4:16-21, saying "This day is this scripture fulfilled in your ears."
 
-**Book of Mormon context:** Abinadi quotes this passage in [Mosiah 15:10-13](../standard-works-vault/Book%20of%20Mormon/Mosiah%2015.10.md)
+**Book of Mormon context:** Abinadi quotes this passage in [Mosiah 15:10-13](https://www.churchofjesuschrist.org/study/scriptures/bofm/mosiah/15?lang=eng&id=p10-p13#p10)
 
 ---
 
@@ -485,8 +485,8 @@ Isaiah contains four "Servant Songs" that prophesy of Christ's mission and atone
 - Brings His reward with Him
 
 **Cross-references:**
-- [Matthew 21:5](../standard-works-vault/New%20Testament/Matthew%2021.5.md) - Quoted regarding Jesus' triumphal entry
-- [Zechariah 9:9](../standard-works-vault/Old%20Testament/Zechariah%209.9.md) - "Behold, thy King cometh unto thee"
+- [Matthew 21:5](https://www.churchofjesuschrist.org/study/scriptures/nt/matt/21.5?lang=eng#p5) - Quoted regarding Jesus' triumphal entry
+- [Zechariah 9:9](https://www.churchofjesuschrist.org/study/scriptures/ot/zech/9.9?lang=eng#p9) - "Behold, thy King cometh unto thee"
 
 **Fulfillment:** Palm Sunday, Jesus' entry into Jerusalem.
 
@@ -505,8 +505,8 @@ Isaiah contains four "Servant Songs" that prophesy of Christ's mission and atone
 **Cross-references:**
 - TG: Jesus Christ, Second Coming
 - TG: Jesus Christ, Millennial Reign
-- [D&C 133:46-51](../standard-works-vault/Doctrine%20and%20Covenants/133.46.md) - Modern revelation explaining this imagery
-- [Revelation 19:11-16](../standard-works-vault/New%20Testament/Revelation%2019.11.md) - Christ returning in power
+- [D&C 133:46-51](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/133.46?lang=eng#p46) - Modern revelation explaining this imagery
+- [Revelation 19:11-16](https://www.churchofjesuschrist.org/study/scriptures/nt/rev/19.11?lang=eng#p11) - Christ returning in power
 
 **Significance:** Portrays Christ's victorious return in power to judge and save.
 
@@ -558,7 +558,7 @@ Key insights from Nephi:
 
 ### Christ's Own Testimony About Isaiah
 
-In [3 Nephi 23:1](../standard-works-vault/Book%20of%20Mormon/3%20Nephi%2023.1.md), the resurrected Savior Himself commands:
+In [3 Nephi 23:1](https://www.churchofjesuschrist.org/study/scriptures/bofm/3-ne/23?lang=eng&id=p1#p1), the resurrected Savior Himself commands:
 
 > "And now, behold, I say unto you, that ye ought to search these things. Yea, a commandment I give unto you that ye search these things diligently; for great are the words of Isaiah."
 
@@ -566,7 +566,7 @@ This divine endorsement establishes Isaiah's supreme importance in understanding
 
 ### Mormon's Testimony
 
-[Mormon 8:23](../standard-works-vault/Book%20of%20Mormon/Mormon%208.23.md): "Search the prophecies of Isaiah"
+[Mormon 8:23](https://www.churchofjesuschrist.org/study/scriptures/bofm/morm/8?lang=eng&id=p23#p23): "Search the prophecies of Isaiah"
 
 ---
 
@@ -684,4 +684,4 @@ As Nephi testified: "For great are the words of Isaiah" - great in scope, great 
 
 ---
 
-*"For we labor diligently to write, to persuade our children, and also our brethren, to believe in Christ, and to be reconciled to God; for we know that it is by grace that we are saved, after all we can do."* - [2 Nephi 25:23](../standard-works-vault/Book%20of%20Mormon/2%20Nephi%2025.23.md)
+*"For we labor diligently to write, to persuade our children, and also our brethren, to believe in Christ, and to be reconciled to God; for we know that it is by grace that we are saved, after all we can do."* - [2 Nephi 25:23](https://www.churchofjesuschrist.org/study/scriptures/bofm/2-ne/25?lang=eng&id=p23#p23)
