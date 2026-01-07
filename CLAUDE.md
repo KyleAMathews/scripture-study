@@ -73,6 +73,17 @@ Example:
 - ✅ Correct: `[3 Nephi 23:1](../standard-works-vault/Book of Mormon/3 Nephi 23.1.md)`
 - ❌ Wrong: `[[3 Nephi 23.1]]`
 
+## Scripture Citation Format
+
+When quoting scripture in essays or study notes:
+- Put the scripture text in plain quotes, NOT as a link
+- Only link the scripture reference (e.g., the verse citation)
+- This keeps the text readable without distracting link styling
+
+Example:
+- ✅ Correct: `"shut up the words, and seal the book" ([Daniel 12:4](https://www.churchofjesuschrist.org/study/scriptures/ot/dan/12.4))`
+- ❌ Wrong: `"[shut up the words, and seal the book](https://...)" ([Daniel 12:4](https://...))`
+
 ## Obsidian Integration (Note: User doesn't use Obsidian)
 
 The standard-works-vault submodule is designed as an Obsidian vault and uses:
