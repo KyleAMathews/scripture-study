@@ -2,7 +2,33 @@
   "permissions": {
     "allow": [
       "Bash(mkdir:*)",
-      "Bash(uv run python:*)"
+      "Bash(uv run python:*)",
+      "WebFetch(domain:www.churchofjesuschrist.org)",
+      "Bash(wc:*)",
+      "Bash(find:*)",
+      "Bash(grep:*)",
+      "WebFetch(domain:happyhomefairy.com)",
+      "WebFetch(domain:chocolatealchemy.com)",
+      "WebFetch(domain:blog.dandelionchocolate.com)",
+      "Bash(gh gist view:*)",
+      "Bash(git add:*)",
+      "Bash(ls:*)",
+      "WebFetch(domain:silva-cacao.com)",
+      "WebFetch(domain:xtcchocolate.com)",
+      "WebFetch(domain:scholar.google.com)",
+      "WebFetch(domain:www.tandfonline.com)",
+      "WebFetch(domain:pmc.ncbi.nlm.nih.gov)",
+      "WebFetch(domain:www.mdpi.com)",
+      "WebFetch(domain:onlinelibrary.wiley.com)",
+      "WebFetch(domain:link.springer.com)",
+      "WebFetch(domain:iopscience.iop.org)",
+      "WebFetch(domain:www.jstage.jst.go.jp)",
+      "WebFetch(domain:dialnet.unirioja.es)",
+      "WebFetch(domain:www.behmor.com)",
+      "WebFetch(domain:library.sweetmarias.com)",
+      "WebFetch(domain:coffeesnobs.com.au)",
+      "WebFetch(domain:elijahcoffee.com)",
+      "WebFetch(domain:chocolatetalk.proboards.com)"
     ]
   }
 }
