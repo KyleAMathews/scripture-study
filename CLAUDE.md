@@ -46,10 +46,21 @@ Conference talks are named like `2025 April - Worship.md` and include:
 
 ## Git Submodule Commands
 
-Initialize submodule after cloning:
+**IMPORTANT: In a new environment, initialize the submodule first before searching scriptures.**
+
+The `standard-works-vault/` directory will be empty until the submodule is initialized. Run this at the start of any new session:
+
 ```bash
-sleep 0.01 && git submodule init
-sleep 0.01 && git submodule update
+git config submodule.standard-works-vault.url https://github.com/GabeScott/standard-works-vault.git
+git submodule update --init
+```
+
+Note: The config line switches from SSH to HTTPS, which works in environments without SSH keys configured.
+
+Alternative (if SSH is available):
+```bash
+git submodule init
+git submodule update
 ```
 
 Update submodule to latest:
