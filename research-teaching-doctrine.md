@@ -372,3 +372,153 @@ Questions teachers could take home and ponder:
 - Do I really listen to my class members, or am I mostly waiting to deliver my next point?
 - Can I stand as an independent witness of what I teach, or am I just echoing the manual?
 - What would the Savior say if He were teaching my class this Sunday?
+
+---
+
+## Part 8: How to Run an Effective Teacher Council Meeting
+
+### What Teacher Council Is (and Isn't)
+
+**It is NOT:**
+- A lesson or presentation
+- One person lecturing others
+- An administrative meeting
+- A place to simply review policies
+
+**It IS:**
+- A genuine council where teachers counsel together
+- A collaborative learning environment
+- A "risk-free environment" to try new approaches
+- A place for "inspiring, uplifting discussions" that translate to classroom impact
+
+The key insight from [ldsteach.info](https://sites.google.com/site/ldsvistastakesundayschool/home/counseling-together-in-our-teacher-councils): "These meetings represent the Lord's system of collaborative decision-making, designed so members of the council counsel together to receive divine inspiration."
+
+### The Official Three-Part Structure (50 minutes)
+
+**1. Share and Counsel Together (20 min)**
+
+Invite teachers to share:
+- What's working well in their teaching
+- Challenges they're facing
+- Things they want to improve
+
+This is the heart of the council. Teachers learn from each other's experience. The facilitator's job is to draw people out, not to have all the answers.
+
+**2. Learn Together (15 min)**
+
+Discuss one principle from *Teaching in the Savior's Way*. For "Teach the Doctrine," this might include:
+- How the Savior taught doctrine (from scripture)
+- The role of the Spirit in teaching
+- The difference between teaching "word" and teaching with "power"
+- Connecting doctrine to learners' lives
+
+Key guidance from the [Church News](https://www.thechurchnews.com/2021/6/27/23217975/teacher-council-meetings-teaching-in-the-saviors-way/): "It is not necessary to cover every aspect of the principle in one meeting—you can spend more than one meeting on a principle if needed."
+
+**3. Plan and Invite (10 min)**
+
+This is the practice portion. Teachers apply what they've discussed. Examples from the [official FAQ](https://www.churchofjesuschrist.org/study/manual/teacher-council-meetings-frequently-asked-questions/what-should-we-practice-during-teacher-council-meetings?lang=eng):
+
+- Take a few minutes to prepare sample lesson plans, share them, and give feedback
+- Think of questions they could use in class and get each other's advice
+- Practice redirecting a hypothetical off-topic discussion back to doctrine
+- Role-play responding to a challenging question from a class member
+
+"When teachers do this, their teaching is far more likely to improve."
+
+### Practical Facilitation Tips
+
+**From President Mark L. Pace** ([Church News / BYU Education Week](https://www.thechurchnews.com/leaders/2022/8/15/23306970/sunday-school-general-presidency-byu-education-week-teaching-in-the-saviors-way-mark-pace/)):
+
+> "Don't get caught up in trying to make a teacher council meeting perfect. Simply holding a meeting is a great place to start."
+
+> "The Lord requires the heart and a willing mind."
+
+**From Brother Milton Camargo:**
+
+Ward council members should "observe classes and counsel together to identify the needs of their teachers." Then select topics from *Teaching in the Savior's Way* based on those actual needs.
+
+After each meeting, leaders should "promote, coach, and reinforce that topic with the teachers" over the next three months—ensuring concepts don't evaporate after the discussion ends.
+
+**From practitioner experience:**
+
+- "Be patient, diligent, and consistent with the new training. Teaching takes practice. The ship isn't going to turn by doing a brief training once every other year."
+
+- "Ask your teachers questions, then listen—even if they just want to vent about how much they hate having a teaching calling."
+
+- Consider separating by age group occasionally: "The issues of teaching children, youth and adults are often very different, which can make for less meaningful discussion when mixed."
+
+### Common Pitfalls to Avoid
+
+1. **Turning it into a lecture** — The facilitator shouldn't talk the whole time. Draw out the teachers.
+
+2. **Skipping the practice portion** — This is where real improvement happens. Don't let "sharing" eat up all the time.
+
+3. **Being too theoretical** — Connect everything to "what will you actually do differently this Sunday?"
+
+4. **Ignoring what teachers actually need** — Observe classes beforehand. Ask teachers what they're struggling with. Let that drive the content.
+
+5. **One-and-done mentality** — A single meeting doesn't transform teaching. Build on the same theme over multiple months.
+
+### Specific Ideas for "Teach the Doctrine" as a Topic
+
+**For the "Share and Counsel" portion:**
+
+- "When you're preparing a lesson, where do you find the doctrine? What sources do you rely on?"
+- "Have you ever had a discussion veer off into speculation or opinion? How did you handle it?"
+- "What's the difference between a lesson that teaches doctrine and one that just discusses experiences?"
+
+**For the "Learn Together" portion:**
+
+Use the scriptural and conference talk research from earlier in this document. Key passages to discuss:
+- Alma 17:2-3 — The formula for teaching with power
+- D&C 42:14 — "If ye receive not the Spirit ye shall not teach"
+- D&C 50:21-22 — Mutual edification as the test of true teaching
+- 3 Nephi 11:39-40 — Teaching "more or less" than the doctrine
+
+Key conference principles:
+- Personal preparation matters more than lesson preparation (McConkie)
+- Teach people, not lessons (Richardson)
+- The goal is conversion, not information (Pace)
+
+**For the "Plan and Invite" portion:**
+
+- Have teachers take 5 minutes to identify one doctrine they'll teach this Sunday and how they'll connect it to Christ
+- Practice asking a "redirect" question: "What gospel truths do we learn from this?"
+- Share one scripture you'll use and explain why it matters for your class
+- Identify where in your lesson you'll pause and listen to the Spirit
+
+### Model the Principle
+
+One crucial insight: **The meeting itself should model the teaching principles being studied.**
+
+If you're discussing "teach the doctrine," the meeting should:
+- Be grounded in scripture (not just opinion)
+- Invite the Spirit through prayer and testimony
+- Focus on conversion, not just information transfer
+- Leave room for teachers to discover truth themselves
+
+If the facilitator lectures about "inviting diligent learning" without inviting diligent learning in the meeting, the message is undermined.
+
+---
+
+## Sources
+
+### Official Church Resources
+
+- [Teaching in the Savior's Way (2022 manual)](https://www.churchofjesuschrist.org/study/manual/teaching-in-the-saviors-way-2022?lang=eng)
+- [Teacher Council Meetings—For Parents and Called Teachers](https://www.churchofjesuschrist.org/study/manual/teaching-in-the-saviors-way-2022/12-part-3/17-teacher-council-meetings-for-parents-and-teachers?lang=eng)
+- [How to Conduct a Teacher Council Meeting (video)](https://www.churchofjesuschrist.org/media/video/2019-01-0100-how-to-conduct-a-teacher-council-meeting-from-start-to-finish?lang=eng)
+- [How to Practice in a Teacher Council Meeting (video)](https://www.churchofjesuschrist.org/media/video/2019-01-0200-how-to-practice-in-a-teacher-council-meeting?lang=eng)
+- [What Should We Practice During Teacher Council Meetings? (FAQ)](https://www.churchofjesuschrist.org/study/manual/teacher-council-meetings-frequently-asked-questions/what-should-we-practice-during-teacher-council-meetings?lang=eng)
+- [General Handbook Chapter 17: Teaching the Gospel](https://www.churchofjesuschrist.org/study/manual/general-handbook/17-teaching-the-gospel?lang=eng)
+
+### Church News Articles
+
+- [How Teacher Council Meetings Can Improve Gospel Learning (2021)](https://www.thechurchnews.com/2021/6/27/23217975/teacher-council-meetings-teaching-in-the-saviors-way/)
+- [Focus All Teaching on the Savior—BYU Education Week (2022)](https://www.thechurchnews.com/leaders/2022/8/15/23306970/sunday-school-general-presidency-byu-education-week-teaching-in-the-saviors-way-mark-pace/)
+
+### Blogs and Practitioner Resources
+
+- [ldsteach.info: Counseling Together in Our Teacher Councils](https://sites.google.com/site/ldsvistastakesundayschool/home/counseling-together-in-our-teacher-councils)
+- [Called to e-Serve: Teaching in the Savior's Way Through Councils](https://called2eserve.wordpress.com/2016/07/22/teaching-in-the-saviors-way-through-councils/)
+- [Becky Squire: How to Teach a Killer Church Lesson](https://beckysquire.com/2024/07/29/how-to-teach-a-killer-church-lesson/)
