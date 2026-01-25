@@ -318,22 +318,57 @@ The teacher's role is to create the conditions for that experience.
 
 ---
 
-## For the Teaching Session
+## For Teacher Council Meeting
 
-### Opening Questions (Get People Talking)
+### Opening / Check-In (5-10 min)
 
-1. "When has someone taught you something that genuinely changed you—not just informed you, but changed how you live? What made that experience different?"
+**Warm-up**: "How are things going in your calling? Any recent teaching moments—good or hard—that are on your mind?"
 
-2. "Think about your own preparation when you teach—whether it's a lesson, a family home evening, or even just a gospel conversation. Where do you spend most of your effort?"
+Let people share briefly. This gets them talking and surfaces what's actually happening in their classrooms.
 
-3. "The scriptures say we should teach 'by the Spirit.' What does that actually look like in practice? How do you know when it's happening?"
+**Transition to Topic**: "Think about a time you were teaching and you felt like the Spirit was really present—something clicked, hearts were touched. What was different about that experience?"
 
-### Application (Wrap-Up Commitments)
+Or alternatively: "When you're preparing a lesson, where do you spend most of your time and energy? What feels hardest about preparation?"
 
-1. **Personal Preparation Experiment**: This week, spend as much time in personal scripture study and prayer *preparing yourself* as you do preparing your lesson materials. Notice what changes.
+These questions get teachers reflecting on their own practice before diving into principles.
 
-2. **The Listening Challenge**: In your next teaching opportunity (formal or informal), intentionally pause and listen before speaking. Ask yourself: "What does this person actually need right now?" Let that guide what you say.
+---
 
-3. **The Sacrament Focus**: This Sunday, come to the sacrament with one specific thing you want to become—one way you want to be more like Christ. Bring that as your offering and ask for help.
+### Possible Discussion Questions During the Focused Dive
 
-4. **Momentum Check**: Elder Renlund taught that we become vulnerable when we stop "paddling." Where in your life have you stopped moving forward? What's one small thing you can do daily to rebuild momentum?
+- "Elder McConkie said personal spiritual preparation is *more important* than lesson preparation. What do you think that means practically? How do we balance both?"
+
+- "The idea of teaching 'people, not lessons'—what would that actually look like in your class this Sunday?"
+
+- "D&C 42:14 says if we don't have the Spirit, we shouldn't teach. That's pretty stark. What do we do with that?"
+
+- "Elder Richardson talks about teaching 'in front of' the Spirit (doing too much) vs. 'behind' the Spirit (unprepared, hoping to be bailed out). Which tendency do you lean toward?"
+
+---
+
+### Application / Wrap-Up (5-10 min)
+
+Invite teachers to choose ONE thing to try before the next teacher council:
+
+1. **The Preparation Shift**: "This week, spend as much time in personal scripture study and prayer *preparing yourself spiritually* as you do preparing your lesson outline. See what changes."
+
+2. **The Listening Experiment**: "In your next lesson, build in a moment where you genuinely pause and listen—to the Spirit and to your class members. Let what you hear shape what you teach next."
+
+3. **Teach Less, Go Deeper**: "Pick one principle from your lesson and really dwell there. Instead of covering five points quickly, let the class wrestle with one truth until it lands."
+
+4. **Personal Witness**: "Find one moment in your next lesson to share what *you* know—not just what the manual says, but what the Spirit has confirmed to you personally."
+
+**Closing thought**: The goal isn't that our class members leave knowing more. The goal is that they leave *changed*—or at least with an invitation to act on what the Spirit taught them. We're not information dispensers. We're instruments in the Lord's hands.
+
+---
+
+### Optional: Teacher Self-Assessment Questions
+
+Questions teachers could take home and ponder:
+
+- Am I more focused on covering content or on inviting conversion?
+- Do I prepare myself spiritually as carefully as I prepare my lesson materials?
+- When I teach, do I leave room for the Spirit to work, or do I fill every moment?
+- Do I really listen to my class members, or am I mostly waiting to deliver my next point?
+- Can I stand as an independent witness of what I teach, or am I just echoing the manual?
+- What would the Savior say if He were teaching my class this Sunday?
