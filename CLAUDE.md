@@ -95,6 +95,19 @@ Example:
 - ✅ Correct: `"shut up the words, and seal the book" ([Daniel 12:4](https://www.churchofjesuschrist.org/study/scriptures/ot/dan/12.4))`
 - ❌ Wrong: `"[shut up the words, and seal the book](https://...)" ([Daniel 12:4](https://...))`
 
+## Historical and Archaeological Context
+
+**IMPORTANT: Do not repeat outdated scholarship about Mesoamerican civilizations.**
+
+When discussing Book of Mormon historicity, warfare, cities, or fortifications, be aware that:
+- Recent LiDAR archaeology (2018+) has dramatically revised our understanding of pre-Columbian scale
+- Maya lowlands supported 10–15 million people at peak; cities like El Mirador, Tikal, and Caracol were massive urban centers
+- Extensive fortification systems (walls, ditches, defensive earthworks) have been documented—Becan's moat system, for example
+- Large-scale organized warfare with genuine conquest (not just "flower wars") is well-attested
+- The old trope that "Mesoamerica lacked cities/fortifications/large-scale warfare comparable to Book of Mormon descriptions" is outdated and lazy
+
+Engage with current archaeology, not 20th-century assumptions. When making comparisons, use the best available scholarship rather than defaulting to dismissive frameworks.
+
 ## Obsidian Integration (Note: User doesn't use Obsidian)
 
 The standard-works-vault submodule is designed as an Obsidian vault and uses:
