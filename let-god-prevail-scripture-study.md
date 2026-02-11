@@ -208,6 +208,36 @@ This is the sealing power — the authority to bind reality itself. God doesn't 
 
 The trajectory isn't **will → erasure of will**. It's **will → transformation of will → empowerment of will**. Nephi doesn't lose his agency; his agency matures into something God can fully endorse and arm.
 
+### Why the First Step Feels Like Diminishment (And Why It Isn't)
+
+But here's the thing: step one genuinely *feels* like giving something up. And that's because our default state isn't neutrality — it's rebellion. The scriptures are blunt about this. The natural man isn't a blank slate choosing between two equivalent options. He's already serving a master:
+
+"Whosoever committeth sin is the servant of sin." ([John 8:34](https://www.churchofjesuschrist.org/study/scriptures/nt/john/8.34))
+
+"Know ye not, that to whom ye yield yourselves servants to obey, his servants ye are to whom ye obey; whether of sin unto death, or of obedience unto righteousness?" ([Romans 6:16](https://www.churchofjesuschrist.org/study/scriptures/nt/rom/6.16))
+
+Paul's framing is ruthless: you're *always* a servant. The only question is which master. The illusion of autonomy — doing whatever you want, answering to no one — is itself a form of bondage. And that bondage leads somewhere specific:
+
+"Wickedness never was happiness." ([Alma 41:10](https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/41.10))
+
+They are "free to choose liberty and eternal life, through the great Mediator of all men, or to choose captivity and death, according to the captivity and power of the devil; for he seeketh that all men might be miserable like unto himself." ([2 Nephi 2:27](https://www.churchofjesuschrist.org/study/scriptures/bofm/2-ne/2.27))
+
+So when Christ says "let God prevail" — when He asks you to take His yoke — He's not asking you to trade freedom for servitude. He's asking you to trade a crushing yoke for a light one:
+
+"Come unto me, all ye that labour and are heavy laden, and I will give you rest. Take my yoke upon you, and learn of me; for I am meek and lowly in heart: and ye shall find rest unto your souls. For my yoke is easy, and my burden is light." ([Matthew 11:28-30](https://www.churchofjesuschrist.org/study/scriptures/nt/matt/11.28))
+
+"Stand fast therefore in the liberty wherewith Christ hath made us free, and be not entangled again with the yoke of bondage." ([Galatians 5:1](https://www.churchofjesuschrist.org/study/scriptures/nt/gal/5.1))
+
+Note that Paul calls Christ's way *liberty* and the alternative *bondage* — the exact opposite of how the natural man perceives it. From the outside, a covenant life looks restrictive. From the inside, it's the first time you've breathed free air. The law of sin and death had you — the Spirit of life released you:
+
+"For the law of the Spirit of life in Christ Jesus hath made me free from the law of sin and death." ([Romans 8:2](https://www.churchofjesuschrist.org/study/scriptures/nt/rom/8.2))
+
+And once you're inside the yoke long enough, something shifts at the level of desire itself. King Benjamin's people experienced this in real time:
+
+"We have no more disposition to do evil, but to do good continually." ([Mosiah 5:2](https://www.churchofjesuschrist.org/study/scriptures/bofm/mosiah/5.2))
+
+This is the hinge moment — the point where obedience stops feeling like sacrifice and starts feeling like *nature*. It's where the yoke stops being something you carry and becomes something that carries you. And it's the bridge between the surrender of "let God prevail" and the empowerment of Helaman 10. Once your disposition has changed, once you genuinely *want* what God wants, you're no longer choosing between your will and His. They're the same will. And that's when He can trust you with everything.
+
 ### From Servants to Friends to Gods
 
 This pattern — submission leading not to diminishment but to elevation — runs through the whole canon. Jesus told His disciples:
@@ -244,9 +274,11 @@ Greater works. Not just imitation but expansion. The student surpasses the scope
 
 So the full arc of President Nelson's message, extended through Helaman 10, looks like this:
 
-- **Beginning:** Choose to let God prevail. Surrender your myopia. Accept outcomes you didn't choose. (Mosiah 3:19, the Jill story)
-- **Middle:** Persist with unwearyingness. Seek God's will so consistently that it reshapes your own desires. (Helaman 10:4)
-- **End:** Your will and God's converge. God trusts you with His own power. You become not a servant but a friend, not a subject but a co-heir, not an automaton but a god in embryo. (Helaman 10:5-7, D&C 132:20, D&C 121:45-46)
+- **Default state:** Bondage. The natural man is already a servant — of sin, of appetite, of self. This isn't freedom; it's captivity that masquerades as autonomy. (John 8:34, Romans 6:16, 2 Nephi 2:27)
+- **Step one — the narrow gate:** Choose to let God prevail. Take the yoke. It feels like giving something up, because from the outside it looks like constraint. (Mosiah 3:19, the Jill story)
+- **The discovery:** The yoke is light. What you gave up was misery, not freedom. Inside the covenant, you breathe free air for the first time. (Matthew 11:28-30, Galatians 5:1, Romans 8:2)
+- **The transformation:** Your disposition changes. Obedience stops being effort and becomes nature. You want what God wants — not because you're suppressing yourself, but because you've been changed. (Mosiah 5:2, Helaman 10:4)
+- **The empowerment:** Your will and God's converge. God trusts you with His own power. You become not a servant but a friend, not a subject but a co-heir, not an automaton but a god in embryo. (Helaman 10:5-7, D&C 132:20, D&C 121:45-46)
 
 "Let God prevail" isn't the final word. It's the first word. The final word is: "All that my Father hath shall be given unto him."
 
@@ -276,6 +308,14 @@ So the full arc of President Nelson's message, extended through Helaman 10, look
 | Courage in perilous times | [Joshua 1:9](https://www.churchofjesuschrist.org/study/scriptures/ot/josh/1.9) | Be strong and of a good courage |
 | God of miracles | [Mormon 9:11](https://www.churchofjesuschrist.org/study/scriptures/bofm/morm/9.11) | God of Abraham, Isaac, and Jacob |
 | Stand in holy places | [D&C 87:8](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/87.8) | Be not moved |
+| Sin is bondage | [John 8:34](https://www.churchofjesuschrist.org/study/scriptures/nt/john/8.34) | Whosoever committeth sin is the servant of sin |
+| Always serving a master | [Romans 6:16](https://www.churchofjesuschrist.org/study/scriptures/nt/rom/6.16) | His servants ye are to whom ye obey |
+| Wickedness ≠ happiness | [Alma 41:10](https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/41.10) | Wickedness never was happiness |
+| Liberty or captivity | [2 Nephi 2:27](https://www.churchofjesuschrist.org/study/scriptures/bofm/2-ne/2.27) | Free to choose liberty or captivity |
+| My yoke is light | [Matthew 11:28-30](https://www.churchofjesuschrist.org/study/scriptures/nt/matt/11.28) | My yoke is easy, and my burden is light |
+| Liberty in Christ | [Galatians 5:1](https://www.churchofjesuschrist.org/study/scriptures/nt/gal/5.1) | The liberty wherewith Christ hath made us free |
+| Free from sin and death | [Romans 8:2](https://www.churchofjesuschrist.org/study/scriptures/nt/rom/8.2) | The Spirit of life made me free |
+| Disposition changed | [Mosiah 5:2](https://www.churchofjesuschrist.org/study/scriptures/bofm/mosiah/5.2) | No more disposition to do evil |
 | Will aligned with God's | [Helaman 10:4-5](https://www.churchofjesuschrist.org/study/scriptures/bofm/hel/10.4) | Thou shalt not ask that which is contrary to my will |
 | Sealing power granted | [Helaman 10:7](https://www.churchofjesuschrist.org/study/scriptures/bofm/hel/10.7) | Whatsoever ye shall seal on earth shall be sealed in heaven |
 | Not servants but friends | [John 15:15](https://www.churchofjesuschrist.org/study/scriptures/nt/john/15.15) | I have called you friends |
