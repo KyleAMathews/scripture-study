@@ -184,6 +184,76 @@ That is the miracle of letting God prevail.
 
 ---
 
+## 11. The Telos: Not Automatons but Collaborators (Helaman 10)
+
+There's a danger in hearing "let God prevail" as pure surrender — a flattening of the self into passive compliance. Helaman 10 demolishes that reading. It shows us the *destination* of the journey, and it isn't servility. It's full partnership.
+
+Nephi son of Helaman has been preaching with everything he has. The crowds have scattered. He walks home alone, "much cast down" ([Helaman 10:3](https://www.churchofjesuschrist.org/study/scriptures/bofm/hel/10.3)). And then the voice of God breaks in with an extraordinary commendation:
+
+"Blessed art thou, Nephi, for those things which thou hast done; for I have beheld how thou hast with unwearyingness declared the word, which I have given unto thee, unto this people. And thou hast not feared them, and hast not sought thine own life, but hast sought my will, and to keep my commandments." ([Helaman 10:4](https://www.churchofjesuschrist.org/study/scriptures/bofm/hel/10.4))
+
+So far this sounds like President Nelson's formula: Nephi let God prevail, sought God's will, kept the commandments. Standard covenant faithfulness. But then verse 5 pivots to something astonishing:
+
+"And now, because thou hast done this with such unwearyingness, behold, I will bless thee forever; and I will make thee mighty in word and in deed, in faith and in works; yea, even that **all things shall be done unto thee according to thy word**, for thou shalt not ask that which is contrary to my will." ([Helaman 10:5](https://www.churchofjesuschrist.org/study/scriptures/bofm/hel/10.5))
+
+Read that last clause again: "thou shalt not ask that which is contrary to my will." God isn't installing a restriction. He's observing a *fact*. Nephi's will has become so deeply aligned with God's that the two are functionally indistinguishable. And because of that convergence, God can hand over the keys to everything:
+
+"Behold, I give unto you power, that whatsoever ye shall seal on earth shall be sealed in heaven; and whatsoever ye shall loose on earth shall be loosed in heaven; and thus shall ye have power among this people." ([Helaman 10:7](https://www.churchofjesuschrist.org/study/scriptures/bofm/hel/10.7))
+
+This is the sealing power — the authority to bind reality itself. God doesn't grant it to puppets. He grants it to someone whose judgment He trusts completely, because that person has spent a lifetime proving they won't use it for themselves. The sequence is critical:
+
+1. Nephi sought God's will with "unwearyingness" (v. 4)
+2. His will converged with God's so completely that he won't ask anything contrary (v. 5)
+3. Therefore God grants him unlimited operative power (vv. 6-10)
+
+The trajectory isn't **will → erasure of will**. It's **will → transformation of will → empowerment of will**. Nephi doesn't lose his agency; his agency matures into something God can fully endorse and arm.
+
+### From Servants to Friends to Gods
+
+This pattern — submission leading not to diminishment but to elevation — runs through the whole canon. Jesus told His disciples:
+
+"Henceforth I call you not servants; for the servant knoweth not what his lord doeth: but I have called you friends; for all things that I have heard of my Father I have made known unto you." ([John 15:15](https://www.churchofjesuschrist.org/study/scriptures/nt/john/15.15))
+
+A servant obeys without understanding. A friend is trusted with the *why*. And the trajectory doesn't stop at friendship. The promise extends to full inheritance:
+
+"And he that receiveth my Father receiveth my Father's kingdom; therefore all that my Father hath shall be given unto him." ([D&C 84:38](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/84.38))
+
+"I have said, Ye are gods; and all of you are children of the most High." ([Psalm 82:6](https://www.churchofjesuschrist.org/study/scriptures/ot/ps/82.6))
+
+And the Restoration's most explicit statement of the endgame:
+
+"Then shall they be gods, because they have no end; therefore shall they be from everlasting to everlasting, because they continue; then shall they be above all, because all things are subject unto them." ([D&C 132:20](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/132.20))
+
+This is what "letting God prevail" is *for*. It's not an end in itself — it's the process by which God grows collaborators. The divine project described in Moses 1:39 — "to bring to pass the immortality and eternal life of man" — isn't a project God does *to* us. It's a project God is training us to join. The whole point of aligning your will with His is that eventually your will becomes trustworthy enough to wield His power.
+
+### The D&C 121 Portrait
+
+The most complete description of what this mature collaborator looks like comes from Liberty Jail:
+
+"Let thy bowels also be full of charity towards all men, and to the household of faith, and let virtue garnish thy thoughts unceasingly; then shall thy confidence wax strong in the presence of God; and the doctrine of the priesthood shall distil upon thy soul as the dews from heaven. The Holy Ghost shall be thy constant companion, and thy scepter an unchanging scepter of righteousness and truth; and thy dominion shall be an everlasting dominion, and without compulsory means it shall flow unto thee forever and ever." ([D&C 121:45-46](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/121.45))
+
+Notice: the person described here has a *scepter* and a *dominion*. This is kingly language. But the dominion flows "without compulsory means" — it comes not from coercion but from the kind of character that others freely trust. This is God's own mode of governance. The person who lets God prevail long enough doesn't just stay obedient — they become *godly*, exercising power the way God does.
+
+Jesus promised His disciples the same trajectory:
+
+"He that believeth on me, the works that I do shall he do also; and greater works than these shall he do; because I go unto my Father." ([John 14:12](https://www.churchofjesuschrist.org/study/scriptures/nt/john/14.12))
+
+Greater works. Not just imitation but expansion. The student surpasses the scope of the master's mortal ministry because the master went to prepare the way for exactly that kind of growth.
+
+### Reframing "Let God Prevail"
+
+So the full arc of President Nelson's message, extended through Helaman 10, looks like this:
+
+- **Beginning:** Choose to let God prevail. Surrender your myopia. Accept outcomes you didn't choose. (Mosiah 3:19, the Jill story)
+- **Middle:** Persist with unwearyingness. Seek God's will so consistently that it reshapes your own desires. (Helaman 10:4)
+- **End:** Your will and God's converge. God trusts you with His own power. You become not a servant but a friend, not a subject but a co-heir, not an automaton but a god in embryo. (Helaman 10:5-7, D&C 132:20, D&C 121:45-46)
+
+"Let God prevail" isn't the final word. It's the first word. The final word is: "All that my Father hath shall be given unto him."
+
+**Study question:** Where are you on this arc? Are you still in the surrendering phase, or have you begun to notice your desires naturally aligning with what God wants — not because you're forcing it, but because you've changed?
+
+---
+
 ## Summary of Key Scriptures
 
 | Theme | Scripture | Core Idea |
@@ -206,3 +276,11 @@ That is the miracle of letting God prevail.
 | Courage in perilous times | [Joshua 1:9](https://www.churchofjesuschrist.org/study/scriptures/ot/josh/1.9) | Be strong and of a good courage |
 | God of miracles | [Mormon 9:11](https://www.churchofjesuschrist.org/study/scriptures/bofm/morm/9.11) | God of Abraham, Isaac, and Jacob |
 | Stand in holy places | [D&C 87:8](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/87.8) | Be not moved |
+| Will aligned with God's | [Helaman 10:4-5](https://www.churchofjesuschrist.org/study/scriptures/bofm/hel/10.4) | Thou shalt not ask that which is contrary to my will |
+| Sealing power granted | [Helaman 10:7](https://www.churchofjesuschrist.org/study/scriptures/bofm/hel/10.7) | Whatsoever ye shall seal on earth shall be sealed in heaven |
+| Not servants but friends | [John 15:15](https://www.churchofjesuschrist.org/study/scriptures/nt/john/15.15) | I have called you friends |
+| All the Father hath | [D&C 84:38](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/84.38) | All that my Father hath shall be given unto him |
+| Ye are gods | [Psalm 82:6](https://www.churchofjesuschrist.org/study/scriptures/ot/ps/82.6) | Children of the most High |
+| Then shall they be gods | [D&C 132:20](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/132.20) | All things are subject unto them |
+| Dominion without compulsion | [D&C 121:45-46](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/121.45) | Without compulsory means it shall flow unto thee |
+| Greater works | [John 14:12](https://www.churchofjesuschrist.org/study/scriptures/nt/john/14.12) | Greater works than these shall he do |
