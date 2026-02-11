@@ -286,6 +286,58 @@ So the full arc of President Nelson's message, extended through Helaman 10, look
 
 ---
 
+## 12. The Topology of Not Letting God Prevail (Mammon, Micah, and the Long Way Around)
+
+Everything above maps the path *toward* God. But what does it look like to go the other direction? What's the structure of the world where God does *not* prevail?
+
+A recent conversation traced a striking path backward through time. It started with a 2026 philosophical essay — a "post-metaphysical grimoire" that attempted to map the architecture of evil using triadic ethical cycles. The essay identified three "hell realms":
+
+- **Mammon** — where metric fixation colonizes all value until everything is denominated in dollars. Capitalism as demonic structure.
+- **Demiurge** — where curated structures generate your experience and then your identity. Social media as gnostic prison.
+- **Mephistopheles** — where doing tries to purchase being. The Faustian bargain of credentials, titles, status markers. You chase the résumé and wake up decades later in the wrong life.
+
+Elaborate, philosophically sophisticated, drawing on Peirce, Hegel, McGilchrist, and Mark Fisher. And then the conversation compressed. A fighter pilot named John Boyd said the same thing on a napkin in the 1970s: "To be or to do? Which way will you go?" And then Jesus said it in one sentence:
+
+"Ye cannot serve God and mammon." ([Matthew 6:24](https://www.churchofjesuschrist.org/study/scriptures/nt/matt/6.24))
+
+And then Micah said it 800 years before Christ and somehow packed in more:
+
+"He hath shewed thee, O man, what is good; and what doth the Lord require of thee, but to do justly, and to love mercy, and to walk humbly with thy God?" ([Micah 6:8](https://www.churchofjesuschrist.org/study/scriptures/ot/micah/6.8))
+
+Micah's formulation is triadic — act justly, love mercy, walk humbly — but the third element is doing the real work. "Walk humbly with thy God" is the anti-Mephistopheles clause. You can turn justice into a credential (the activist identity). You can make mercy into a curated self-presentation (the compassion brand). But "walk humbly" keeps undermining the ego's attempt to own the project. It's what prevents the other two from curdling into their own hell realms. It is, in other words, *letting God prevail.*
+
+The three hell realms map neatly onto what happens when you don't:
+
+- **Mammon**: You let *money* prevail. The metric becomes the master.
+- **Demiurge**: You let *the system* prevail. The structure generates your identity instead of the reverse.
+- **Mephistopheles**: You let *your résumé* prevail. Doing purchases being, and sunk costs seal the contract.
+
+In each case, something has taken God's seat. And the result is always the same: "Wickedness never was happiness" ([Alma 41:10](https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/41.10)). The elaborate 2026 essay spent thousands of words diagnosing what the scriptures already knew: when you serve anything other than God, the cycle breaks, and the breakage has a recognizable shape.
+
+### Why God Doesn't Want Automatons Either
+
+But here's the deepest part of this. The conversation's compression from grimoire to gospel also reveals something about the *kind* of prevailing God wants.
+
+In the premortal council, Satan proposed exactly what it would look like if God prevailed by *force*:
+
+"I will redeem all mankind, that one soul shall not be lost, and surely I will do it; wherefore give me thine honor." ([Moses 4:1](https://www.churchofjesuschrist.org/study/scriptures/pgp/moses/4.1))
+
+No agency, no risk, no loss. And God rejected it — not because He didn't want everyone saved, but because the method would "destroy the agency of man" ([Moses 4:3](https://www.churchofjesuschrist.org/study/scriptures/pgp/moses/4.3)). Christ's counter-proposal was two words: "Thy will be done" ([Moses 4:2](https://www.churchofjesuschrist.org/study/scriptures/pgp/moses/4.2)). The plan that preserved agency. The plan where people could actually choose, and choosing wrong was a real possibility.
+
+This means God Himself chose a process that could fail, *because the process is the point.* Agency isn't a bug in the plan; it's the plan. And this is confirmed by one of the most striking revelations in the Doctrine and Covenants:
+
+"It is not meet that I should command in all things; for he that is compelled in all things, the same is a slothful and not a wise servant; wherefore he receiveth no reward. Verily I say, men should be anxiously engaged in a good cause, and do many things of their own free will, and bring to pass much righteousness; for the power is in them, wherein they are agents unto themselves." ([D&C 58:26-28](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/58.26))
+
+God explicitly does not want to micromanage. "The power is in them." This isn't a God who wants compliance — it's a God who wants collaborators. People who are "anxiously engaged" of their own initiative, not waiting for instructions. This is the D&C 58 version of Helaman 10: God doesn't give Nephi a checklist. He gives him the sealing power and says, in effect, *I trust your judgment. Go.*
+
+The narrow gate of "let God prevail" opens onto a wide country where you're expected to *act* — not as an automaton executing divine commands, but as a mature agent whose will has been shaped by the covenant process into something God can trust. The whole point of surrender is to produce the kind of person who doesn't need to be commanded in all things. The whole point of the yoke is that eventually it's not a yoke anymore — it's wings.
+
+"Strait is the gate, and narrow is the way, which leadeth unto life." ([Matthew 7:14](https://www.churchofjesuschrist.org/study/scriptures/nt/matt/7.14))
+
+Narrow way in. But what it leads to is *life* — not a smaller life, but an infinite one.
+
+---
+
 ## Summary of Key Scriptures
 
 | Theme | Scripture | Core Idea |
@@ -324,3 +376,9 @@ So the full arc of President Nelson's message, extended through Helaman 10, look
 | Then shall they be gods | [D&C 132:20](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/132.20) | All things are subject unto them |
 | Dominion without compulsion | [D&C 121:45-46](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/121.45) | Without compulsory means it shall flow unto thee |
 | Greater works | [John 14:12](https://www.churchofjesuschrist.org/study/scriptures/nt/john/14.12) | Greater works than these shall he do |
+| Cannot serve two masters | [Matthew 6:24](https://www.churchofjesuschrist.org/study/scriptures/nt/matt/6.24) | Ye cannot serve God and mammon |
+| Walk humbly | [Micah 6:8](https://www.churchofjesuschrist.org/study/scriptures/ot/micah/6.8) | Do justly, love mercy, walk humbly with thy God |
+| Satan's plan: destroy agency | [Moses 4:1-3](https://www.churchofjesuschrist.org/study/scriptures/pgp/moses/4.1) | Sought to destroy the agency of man |
+| Christ's plan: thy will be done | [Moses 4:2](https://www.churchofjesuschrist.org/study/scriptures/pgp/moses/4.2) | Father, thy will be done, and the glory be thine |
+| Not commanded in all things | [D&C 58:26-28](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/58.26) | Anxiously engaged in a good cause of their own free will |
+| The narrow gate opens to life | [Matthew 7:14](https://www.churchofjesuschrist.org/study/scriptures/nt/matt/7.14) | Strait is the gate, narrow is the way, which leadeth unto life |
